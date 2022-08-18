@@ -1,15 +1,16 @@
-<!-- ### Hi there 👋
--->
+<!-- ### Hi there 👋 -->
+ 
+<h2 align="center"> Hi there 👋 </h2>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ak811&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak811&layout=compact)
-
+<p align="center">
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ak811&theme=github_dark&show_icons=true&count_private=true&hide=stars&custom_title=GitHub Stats" alt="My GitHub Stats"/></a>
+  	<br/>
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=ak811&theme=github-dark-blue"/></a>
+	<br/>
+  	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak811&theme=github_dark&layout=compact&card_width=445&alt="Most Used Languages"/></a>
+</p>
 
 <!--
-**ak811/ak811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
