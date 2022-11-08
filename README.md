@@ -1,5 +1,3 @@
-<!-- <h2 align="center"> Hi there 👋 </h2> -->
-
 Hi, my name is Ali Khaleghi, and I'm a recent computer engineering bachelor's graduate interested in computer vision, machine learning, and chess. [Lichess 2200+]
 
 Some highlights from my CV:
@@ -35,7 +33,7 @@ Some highlights from my CV:
 
 <br>
 
-#### Most used languages in my public repositories:
+### Most used languages in my public repositories:
 <p align="left">
 	<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ak811&theme=github_dark&show_icons=true&count_private=true&hide=stars,contribs" alt="My GitHub Stats"/></a>  
   	<br/> -->
@@ -43,14 +41,3 @@ Some highlights from my CV:
 	<br/> -->
   	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak811&theme=github_dark&layout=compact&card_width=445&alt="Most Used Languages"/></a>
 </p>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
