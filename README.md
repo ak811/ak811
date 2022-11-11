@@ -15,6 +15,7 @@ Some highlights from my CV:
 #### Computer Vision and Machine Learning (loading)
 - [ak811/ira](https://github.com/ak811/ira)
 - [ak811/watershed](https://github.com/ak811/watershed)
+- [ak811/object-tracking](https://github.com/ak811/object-tracking)
 
 #### ACM-ICPC
 - [ak811/competitive-programming](https://github.com/ak811/competitive-programming)
