@@ -1,4 +1,4 @@
-Hi, my name is Ali Khaleghi, and I'm a recent computer engineering bachelor's graduate interested in computer vision, machine learning, and chess. [Lichess 2200+]
+Hello! My name is Ali Khaleghi, and I'm a recent computer engineering bachelor's graduate interested in computer vision, machine learning, and chess. [Lichess 2200+]
 
 Some highlights from my CV:
 - Certificate of Achievement (Honorable Mention) in the 17th [International Collegiate Programming Contest (ICPC)](https://icpc.global/) - Nov 2019
