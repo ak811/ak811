@@ -12,26 +12,27 @@ Some highlights from my CV:
 
 ## Some of my notable repositories
 
-#### Computer Vision and Machine Learning (loading)
+#### Computer Vision and Machine Learning
 - [ak811/ira](https://github.com/ak811/ira)
 - [ak811/watershed](https://github.com/ak811/watershed)
 - [ak811/object-tracking](https://github.com/ak811/object-tracking)
 
+#### Game Theory in Artificial Intelligence
+- [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
+- [ak811/jina](https://github.com/ak811/jina)
+- [ak811/jaga](https://github.com/ak811/jaga)
+
 #### ACM-ICPC
 - [ak811/competitive-programming](https://github.com/ak811/competitive-programming)
-
-#### Game Development
-- [ak811/jaga](https://github.com/ak811/jaga)
 
 #### Contribution
 - [ak811/chess-on-github](https://github.com/ak811/chess-on-github)
 
-#### Academic Projects
+#### Other Academic Projects
 - [ak811/ase](https://github.com/ak811/ase)
-- [ak811/jina](https://github.com/ak811/jina)
 - [ak811/tcp-socket](https://github.com/ak811/tcp-socket)
 - [ak811/aes-encryption](https://github.com/ak811/aes-encryption)
-- [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
+
 
 <br>
 
