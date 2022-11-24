@@ -28,7 +28,7 @@ Some highlights from my CV:
 #### Contribution
 - [ak811/chess-on-github](https://github.com/ak811/chess-on-github)
 
-#### Other Academic Projects
+#### Other Course Projects
 - [ak811/ase](https://github.com/ak811/ase)
 - [ak811/tcp-socket](https://github.com/ak811/tcp-socket)
 - [ak811/aes-encryption](https://github.com/ak811/aes-encryption)
