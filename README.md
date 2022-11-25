@@ -10,7 +10,7 @@ Some highlights from my CV:
 
 <br>
 
-## Some of my notable repositories
+## Selected Repositories
 
 #### Computer Vision and Machine Learning
 - [ak811/ira](https://github.com/ak811/ira)
