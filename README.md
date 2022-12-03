@@ -21,9 +21,9 @@ Some highlights from my CV:
 
 #### Game Theory in Artificial Intelligence
 - [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
+- [ak811/pacman](https://github.com/ak811/pacman)
 - [ak811/jina](https://github.com/ak811/jina)
 - [ak811/jaga](https://github.com/ak811/jaga)
-- [ak811/pacman](https://github.com/ak811/pacman)
 
 #### Algorithm Design and Data Structures
 - [ak811/competitive-programming](https://github.com/ak811/competitive-programming)
