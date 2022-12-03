@@ -14,6 +14,7 @@ Some highlights from my CV:
 
 #### Computer Vision and Machine Learning
 - [ak811/ira](https://github.com/ak811/ira)
+- [ak811/kcnn](https://github.com/ak811/kcnn)
 - [ak811/watershed](https://github.com/ak811/watershed)
 - [ak811/object-tracking](https://github.com/ak811/object-tracking)
 
@@ -21,18 +22,19 @@ Some highlights from my CV:
 - [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
 - [ak811/jina](https://github.com/ak811/jina)
 - [ak811/jaga](https://github.com/ak811/jaga)
+- [ak811/pacman](https://github.com/ak811/pacman)
 
-#### ACM-ICPC
+#### Algorithm Design and Data Structures
 - [ak811/competitive-programming](https://github.com/ak811/competitive-programming)
+- [ak811/data-processing](https://github.com/ak811/data-processing)
 
 #### Contribution
 - [ak811/chess-on-github](https://github.com/ak811/chess-on-github)
 
-#### Other Course Projects
+#### Other Projects
 - [ak811/ase](https://github.com/ak811/ase)
 - [ak811/tcp-socket](https://github.com/ak811/tcp-socket)
 - [ak811/aes-encryption](https://github.com/ak811/aes-encryption)
-
 
 <br>
 
