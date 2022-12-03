@@ -35,6 +35,7 @@ Some highlights from my CV:
 - [ak811/ase](https://github.com/ak811/ase)
 - [ak811/tcp-socket](https://github.com/ak811/tcp-socket)
 - [ak811/aes-encryption](https://github.com/ak811/aes-encryption)
+- [ak811/parallel-computation](https://github.com/ak811/parallel-computation)
 
 <br>
 
