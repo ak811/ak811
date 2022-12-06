@@ -1,5 +1,7 @@
 Hello! My name is Ali Khaleghi Rahimian, and I have recently graduated with a bachelor's degree in computer engineering from Yazd University. My research primarily focuses on the intersection of computer vision and machine learning. I am particularly interested in developing computer vision and machine learning algorithms for robot control.
 
+<br>
+
 Some highlights from my CV:
 - Certificate of Achievement (Honorable Mention) in the 17th [International Collegiate Programming Contest (ICPC)](https://icpc.global/) - Nov 2019
 - Ranked 4th in the 3rd national [Sharif Spaghetti Programming Contest](http://spaghetticontest.sharif.ir/) - Dec 2019
