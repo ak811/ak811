@@ -1,4 +1,4 @@
-Hello! My name is Ali Khaleghi, and I'm a recent computer engineering bachelor's graduate interested in computer vision, machine learning, and game theory.
+Hello! My name is Ali Khaleghi Rahimian, and I have recently graduated with a bachelor's degree in computer engineering from Yazd University. My research primarily focuses on the intersection of computer vision and machine learning. I am particularly interested in developing computer vision and machine learning algorithms for robot control.
 
 Some highlights from my CV:
 - Certificate of Achievement (Honorable Mention) in the 17th [International Collegiate Programming Contest (ICPC)](https://icpc.global/) - Nov 2019
