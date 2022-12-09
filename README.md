@@ -17,10 +17,10 @@ Some highlights from my CV:
 #### Computer Vision and Machine Learning
 - [ak811/ira](https://github.com/ak811/ira)
 - [ak811/dlci](https://github.com/ak811/dlci)
+- [ak811/hsfc](https://github.com/ak811/hsfc)
 - [ak811/kcnn](https://github.com/ak811/kcnn)
 - [ak811/watershed](https://github.com/ak811/watershed)
 - [ak811/object-tracking](https://github.com/ak811/object-tracking)
-- [ak811/hand-segmentation](https://github.com/ak811/hand-segmentation)
 
 #### Game Theory in Artificial Intelligence
 - [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
