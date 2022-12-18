@@ -1,4 +1,4 @@
-Hello! My name is Ali Khaleghi Rahimian, and I have recently graduated with a bachelor's degree in computer engineering from Yazd University. My research primarily focuses on the intersection of computer vision and machine learning. I am particularly interested in developing computer vision and machine learning algorithms for  for autonomous agents.
+Hello! My name is Ali Khaleghi Rahimian, and I have recently graduated with a bachelor's degree in computer engineering from Yazd University. My research primarily focuses on the intersection of computer vision and machine learning. I am particularly interested in developing computer vision and machine learning algorithms for autonomous agents.
 
 <br>
 
