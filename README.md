@@ -14,7 +14,7 @@ Some highlights from my CV:
 
 ## Selected Repositories
 
-#### Computer Vision and Machine Learning
+#### Computer Vision and Deep Learning
 - [ak811/ira](https://github.com/ak811/ira)
 - [ak811/dlci](https://github.com/ak811/dlci)
 - [ak811/hsfc](https://github.com/ak811/hsfc)
