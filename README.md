@@ -1,4 +1,4 @@
-Hello! My name is Ali Khaleghi, and I recently graduated with a bachelor's degree in computer engineering from Yazd University. My research primarily focuses on the intersection of computer vision and machine learning. I am particularly interested in developing computer vision and machine learning algorithms for autonomous embodied agents.
+Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in computer engineering from Yazd University. My research centers around the intersection of computer vision and machine learning, specifically for the development of autonomous agents.
 
 <br>
 
