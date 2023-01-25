@@ -1,4 +1,4 @@
-Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in computer engineering from Yazd University. My research centers around the intersection of computer vision and machine learning, specifically for the development of autonomous agents.
+Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around the intersection of computer vision and machine learning, specifically for the development of autonomous agents.
 
 <br>
 
