@@ -1,4 +1,4 @@
-Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around deep learning and machine learning, specifically their application in computer vision, natural language processing, and software systems.
+Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around optimization algorithms and their theoretical convergence analysis under relevant statistical assumptions, specifically continuous approaches for non-smooth and non-convex optimization problems with combinatorial structure.
 
 <br>
 
@@ -14,7 +14,7 @@ Some highlights from my CV:
 
 ## Selected Repositories
 
-#### Deep Learning in Computer Vision and NLP
+#### Computer Vision and NLP
 - [ak811/ira](https://github.com/ak811/ira)
 - [ak811/dlci](https://github.com/ak811/dlci)
 - [ak811/hsfc](https://github.com/ak811/hsfc)
