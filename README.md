@@ -1,4 +1,4 @@
-Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around optimization algorithms and their theoretical convergence analysis under relevant statistical assumptions, specifically continuous approaches for non-smooth and non-convex optimization problems with combinatorial structure.
+<!-- Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around optimization algorithms and their theoretical convergence analysis under relevant statistical assumptions, specifically continuous approaches for non-smooth and non-convex optimization problems with combinatorial structure.
 
 <br>
 
@@ -44,8 +44,11 @@ Some highlights from my CV:
 
 <br>
 
+-->
 
-### Most used languages in public repositories:
+<!--
+ ### Most used languages in public repositories:  -->
+ 
 <p align="left">
 	<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ak811&theme=github_dark&show_icons=true&count_private=true&hide=stars,contribs" alt="My GitHub Stats"/></a>  
   	<br/> -->
@@ -53,3 +56,5 @@ Some highlights from my CV:
 	<br/> -->
   	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak811&theme=github_dark&layout=compact&card_width=445&alt="Most Used Languages"/></a>
 </p>
+
+ 
