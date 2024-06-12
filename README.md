@@ -1,4 +1,4 @@
-Hi there👋
+<!-- Hi there👋
 
 <!-- Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around optimization algorithms and their theoretical convergence analysis under relevant statistical assumptions, specifically continuous approaches for non-smooth and non-convex optimization problems with combinatorial structure.
 
