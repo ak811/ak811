@@ -1,18 +1,39 @@
-<!-- Hi there👋
-
-<!-- Hi, my name is Ali Khaleghi, and I have recently completed my undergraduate degree in Computer Engineering from Yazd University. My research centers around optimization algorithms and their theoretical convergence analysis under relevant statistical assumptions, specifically continuous approaches for non-smooth and non-convex optimization problems with combinatorial structure.
-
-<br>
+Hello, my name is Ali, and I am a second-year PhD student majoring in Computer Science at UNC Charlotte. My research focuses on computer vision and deep
+learning, with a particular interest in transformers, state space models, and the
+self-attention mechanism. I enjoy exploring how these architectures can improve
+the efficiency and accuracy of visual recognition tasks and other real-world applications. Alongside my research, I have gained strong programming experience
+in Python and deep learning frameworks like PyTorch and TensorFlow. I am
+excited to continue advancing my expertise while collaborating with others in
+pushing the boundaries of AI.
 
 Some highlights from my CV:
-- Certificate of Achievement (Honorable Mention) in the 17th [International Collegiate Programming Contest (ICPC)](https://icpc.global/) - Nov 2019
-- Ranked 4th in the 3rd national [Sharif Spaghetti Programming Contest](http://spaghetticontest.sharif.ir/) - Dec 2019
-- Ranked 10th in the final round of the 6th national [JavaCup Programming Contest](https://javacup.ir/contest/) - Oct 2019
-- Ranked 31st in the 7th national [Mobile Programming Marathon](http://mpm.sharif.ir/) - Sep 2019
-- Ranked 3rd in the 3rd national [Sharif ICT Challenge Programming Contest](http://ictchallenge.sharif.ir/) - Aug 2019
-- Ranked 2nd in the national [JCAL Programming Contest](https://javacup.ir/contest/) - May 2018
+- 2nd Place — JCAL Programming Contest *(May 2018)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/contest/) | [Persian](https://javacup.ir/contest/)
+- 3rd Place — Sharif ICT Challenge *(Aug 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://ictchallenge.ir/) | [Persian](https://ictchallenge.ir/)
+- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://spaghetticontest.ir/) | [Persian](https://spaghetticontest.ir/)
+- 10th Place — JavaCup Programming Contest *(Oct 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/javacup6-report/) | [Persian](https://javacup.ir/javacup6-report/)
+- 31st Place — Mobile Programming Marathon *(Sep 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://mpm.sharifict.ir/) | [Persian](https://mpm.sharifict.ir/)
+- Certificate of Achievement — 17th ICPC *(Nov 2019)* [English](https://icpc.global/)
 
+<!--
+Some highlights from my CV:
+- 2nd Place — JCAL Programming Contest *(May 2018)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/contest/) [![Persian](https://img.shields.io/badge/Persian-darkgreen?style=flat-square)](https://javacup.ir/contest/)
+- 3rd Place — Sharif ICT Challenge *(Aug 2019)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://translate.google.com/translate?hl=en&sl=auto&u=https://ictchallenge.ir/) [![Persian](https://img.shields.io/badge/Persian-darkgreen?style=flat-square)](https://ictchallenge.ir/)
+- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://translate.google.com/translate?hl=en&sl=auto&u=https://spaghetticontest.ir/) [![Persian](https://img.shields.io/badge/Persian-darkgreen?style=flat-square)](https://spaghetticontest.ir/)
+- 10th Place — JavaCup Programming Contest *(Oct 2019)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/contest/) [![Persian](https://img.shields.io/badge/Persian-darkgreen?style=flat-square)](https://javacup.ir/contest/)
+- 31st Place — Mobile Programming Marathon *(Sep 2019)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://translate.google.com/translate?hl=en&sl=auto&u=https://mpm.sharifict.ir/) [![Persian](https://img.shields.io/badge/Persian-darkgreen?style=flat-square)](https://mpm.sharifict.ir/)
+- Certificate of Achievement — 17th ICPC *(Nov 2019)* [![English](https://img.shields.io/badge/English-blue?style=flat-square)](https://icpc.global/)
 <br>
+-->
+
+<!--
+Some highlights from my CV:
+- 2nd Place — JCAL Programming Contest *(May 2018)*  
+- 3rd Place — Sharif ICT Challenge *(Aug 2019)*  
+- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)*  
+- 10th Place — JavaCup Programming Contest *(Oct 2019)*  
+- 31st Place — Mobile Programming Marathon *(Sep 2019)*  
+- Certificate of Achievement — 17th ICPC *(Nov 2019)*
+-->
 
 ## Selected Repositories
 
@@ -45,8 +66,6 @@ Some highlights from my CV:
 - [ak811/parallel-computation](https://github.com/ak811/parallel-computation)
 
 <br>
-
--->
 
 <!--
  ### Most used languages in public repositories:  -->
