@@ -14,35 +14,73 @@ Some highlights from my CV:
 - 31st Place — Mobile Programming Marathon *(Sep 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://mpm.sharifict.ir/) | [Persian](https://mpm.sharifict.ir/)
 - Certificate of Achievement — 17th ICPC *(Nov 2019)* [English](https://icpc.global/)
 
+<!--
 ## Selected Repositories
+### Computer Vision & Deep Learning
+- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)  
+- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull  
+- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
+- [watershed](https://github.com/ak811/watershed) — Image segmentation using the Watershed algorithm  
+- [object-tracking](https://github.com/ak811/object-tracking) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)  
+- [dlci](https://github.com/ak811/dlci) — Deep learning on custom images  
+- nlp-yelp (private) — Sentiment analysis of Yelp reviews (Naive Bayes, NLP pipeline)  
+- finger-counting (private) — Hand gesture counting with OpenCV  
+- hand-segmentation (private) — Segmentation preprocessing for hand pose recognition  
 
-#### Computer Vision and NLP
-- [ak811/ira](https://github.com/ak811/ira)
-- [ak811/dlci](https://github.com/ak811/dlci)
-- [ak811/hsfc](https://github.com/ak811/hsfc)
-- [ak811/kcnn](https://github.com/ak811/kcnn)
-- [ak811/nlp-yelp](https://github.com/ak811/nlp-yelp)
-- [ak811/watershed](https://github.com/ak811/watershed)
-- [ak811/object-tracking](https://github.com/ak811/object-tracking)
+### Transformer & Attention Research
+- [Fibottention](https://github.com/ak811/Fibottention) — Inceptive visual representation learning with diverse attention  
+- fibottention-main (private) — Extended Fibottention experiments  
+- efficient-swin-transformer (private) — Efficient Swin Transformer variants  
+- iFormer-main (private) — Transformer-based image modeling  
+- Efficient-Transformer-master-test-time-adaptation (private) — Test-time adaptation with Transformers  
+- convit (private) — Hybrid convolution + vision transformer  
 
-#### Game Theory in Artificial Intelligence
-- [ak811/alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning)
-- [ak811/pacman](https://github.com/ak811/pacman)
-- [ak811/jina](https://github.com/ak811/jina)
-- [ak811/jaga](https://github.com/ak811/jaga)
+### Distributed & Cloud Computing
+- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard similarity with Hadoop MapReduce  
+- [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — MapReduce WordCount  
+- spark-music-streaming-analysis (private) — Music streaming analysis with Spark  
+- [cloud-computing](https://github.com/ak811/cloud-computing) — Distributed systems and cloud experiments  
+- [docker](https://github.com/ak811/docker) — Containerized applications  
+- [docker-containers](https://github.com/ak811/docker-containers) — Docker container workflows  
+- UPop-main (private) — Scalable user popularity prediction system  
+- finalytics (private) — Financial analytics platform  
+- beatflow (private) — Audio/music processing with deep models  
+- english-cafe (private) — Language learning NLP platform  
 
-#### Algorithm Design and Data Structures
-- [ak811/competitive-programming](https://github.com/ak811/competitive-programming)
-- [ak811/data-processing](https://github.com/ak811/data-processing)
+### Game Theory & AI Agents
+- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
+- pacman (private) — Pac-Man RL agent with BFS/DFS/A* heuristics  
+- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
+- [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework  
 
-#### Contribution
-- [ak811/chess-on-github](https://github.com/ak811/chess-on-github)
+### Algorithms & Competitive Programming
+- [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
+- [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
+- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency  
 
-#### Other Projects
-- [ak811/ase](https://github.com/ak811/ase)
-- [ak811/tcp-socket](https://github.com/ak811/tcp-socket)
-- [ak811/aes-encryption](https://github.com/ak811/aes-encryption)
-- [ak811/parallel-computation](https://github.com/ak811/parallel-computation)
+### Systems, Networking & Security
+- [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
+- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams  
+- [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption  
+- mutated-bot (private) — Experimental bot framework  
+
+### Web & Applications
+- [ak811.github.io](https://github.com/ak811/ak811.github.io) — Personal website  
+- ieproject (private) — JavaScript-based web project  
+- fla (private) — Java desktop application  
+- NiniNetwork (private) — Java-based application framework  
+
+### Contributions & Forks
+- [chess-on-github](https://github.com/ak811/chess-on-github) — Interactive chess via GitHub issues  
+- [opencv](https://github.com/ak811/opencv) — Fork of OpenCV  
+- [opencv_contrib](https://github.com/ak811/opencv_contrib) — Fork of OpenCV contrib modules  
+
+### Other / Legacy Projects
+- 4-port-hub-switch (private)  
+- QkedyServer (private, PHP)  
+- Numero (private, Java)  
+- MapoG (private, Java)  
+- Weaveth (private, Java)  
 
 <br>
 
