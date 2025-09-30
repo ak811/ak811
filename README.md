@@ -7,12 +7,12 @@ excited to continue advancing my expertise while collaborating with others in
 pushing the boundaries of AI.
 
 Some highlights from my CV:
-- 2nd Place — JCAL Programming Contest *(May 2018)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/contest/) | [Persian](https://javacup.ir/contest/)
-- 3rd Place — Sharif ICT Challenge *(Aug 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://ictchallenge.ir/) | [Persian](https://ictchallenge.ir/)
-- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://spaghetticontest.ir/) | [Persian](https://spaghetticontest.ir/)
-- 10th Place — JavaCup Programming Contest *(Oct 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://javacup.ir/javacup6-report/) | [Persian](https://javacup.ir/javacup6-report/)
-- 31st Place — Mobile Programming Marathon *(Sep 2019)* [English](https://translate.google.com/translate?hl=en&sl=auto&u=https://mpm.sharifict.ir/) | [Persian](https://mpm.sharifict.ir/)
-- Certificate of Achievement — 17th ICPC *(Nov 2019)* [English](https://icpc.global/)
+- 2nd Place — JCAL Programming Contest *(May 2018)*
+- 3rd Place — Sharif ICT Challenge *(Aug 2019)*
+- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)*
+- 10th Place — JavaCup Programming Contest *(Oct 2019)*
+- 31st Place — Mobile Programming Marathon *(Sep 2019)*
+- Certificate of Achievement — 17th ICPC *(Nov 2019)*
 
 <!--
 ## Selected Repositories
