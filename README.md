@@ -12,7 +12,7 @@ Some highlights from my CV:
 - 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)*
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Programming Marathon *(Sep 2019)*
-- Certificate of Achievement — 17th ICPC *(Nov 2019)*
+- Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
 
 <!--
 ## Selected Repositories
