@@ -1,4 +1,4 @@
-Hello, my name is Ali, and I am a second-year PhD student majoring in Computer Science at UNC Charlotte. My research focuses on computer vision and deep
+Hello, my name is Ali, and I am a Graduate Research Assistant majoring in Computer Science at UNC Charlotte. My research focuses on computer vision and deep
 learning, with a particular interest in transformers, state space models, and the
 self-attention mechanism. I enjoy exploring how these architectures can improve
 the efficiency and accuracy of visual recognition tasks and other real-world applications. Alongside my research, I have gained strong programming experience
