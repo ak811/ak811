@@ -31,11 +31,13 @@ Some highlights from my CV:
 - [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
 
 ### Distributed & Cloud Computing
-- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard similarity with Hadoop MapReduce  
-- [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — MapReduce WordCount  
-- [cloud-computing](https://github.com/ak811/cloud-computing) — Distributed systems and cloud experiments  
-- [docker](https://github.com/ak811/docker) — Containerized applications  
-- [docker-containers](https://github.com/ak811/docker-containers) — Docker container workflows  
+- [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)  
+- [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
+- [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) — Music Streaming Analysis Using Spark Structured APIs  
+- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard Similarity with Hadoop MapReduce  
+- [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — Hadoop-MapReduce-WordCount  
+- [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
+- [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
 ### Game Theory
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
