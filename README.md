@@ -18,10 +18,13 @@ Some highlights from my CV:
 ### Research Projects (2024-2025)
 - [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive visual representation learning with diverse attention
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — Sparse Attention Mechanisms for Vision Transformers
+
+<!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
 - sparse-iformer — Transformer-based image modeling  
 - sparse-convit — Hybrid convolution + vision transformer  
 - sparse-upop — Unified and progressive pruning
+-->
 
 ### Computer Vision & Deep Learning (2022-2023)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation using the Watershed algorithm
