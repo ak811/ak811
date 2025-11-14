@@ -57,11 +57,11 @@ Some highlights from my CV:
 
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
-- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams  
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
 
 ### Software Development
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
+- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams  
 
 <!--
 ## Selected Repositories
