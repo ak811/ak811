@@ -18,7 +18,7 @@ Some highlights from my CV:
 
 ## Selected Repositories
 ### Research Projects (2024-2025)
-- [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive visual representation learning with diverse attention
+- [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive visual representation learning with diverse attention
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — Sparse Attention Mechanisms for Vision Transformers
 
 <!--
@@ -36,6 +36,7 @@ Some highlights from my CV:
 - [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
 
 ### Distributed & Cloud Computing
+- [sparxiv](https://github.com/ak811/sparxiv) — A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
