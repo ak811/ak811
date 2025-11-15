@@ -1,11 +1,4 @@
-<!--
-Hello, my name is Ali, and I am a Graduate Research Assistant majoring in Computer Science at UNC Charlotte. My research focuses on computer vision and deep
-learning, with a particular interest in transformers, state space models, and the
-self-attention mechanism. I enjoy exploring how these architectures can improve
-the efficiency and accuracy of visual recognition tasks and other real-world applications. Alongside my research, I have gained strong programming experience
-in Python and deep learning frameworks like PyTorch and TensorFlow. I am
-excited to continue advancing my expertise while collaborating with others in
-pushing the boundaries of AI.
+Hi, my name is Ali Rahimian, and I'm a graduate research assistant at the Charlotte Machine Learning Lab (CharMLab), where I focus on machine learning and computer vision, with an emphasis on transformer models and self-attention mechanisms.
 
 Some highlights from my CV:
 - 2nd Place — JCAL Programming Contest *(May 2018)*
@@ -14,7 +7,6 @@ Some highlights from my CV:
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Programming Marathon *(Sep 2019)*
 - Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
--->
 
 ## Selected Repositories
 ### Research Projects (2024-2025)
