@@ -1,4 +1,4 @@
-Hi, my name is Ali Rahimian, and I'm a graduate research assistant at the Charlotte Machine Learning Lab (CharMLab), where I focus on machine learning and computer vision, with an emphasis on transformer models and self-attention mechanisms.
+Hi, my name is Ali Rahimian, and I'm a graduate research assistant at at the Charlotte Machine Learning Lab (CharMLab), where I work on sparse attention, efficient transformer models, and visual representation learning.
 
 Some highlights from my CV:
 - 2nd Place — JCAL Programming Contest *(May 2018)*
