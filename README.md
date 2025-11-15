@@ -18,7 +18,7 @@ Some highlights from my CV:
 
 ## Selected Repositories
 ### Research Projects (2024-2025)
-- [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive visual representation learning with diverse attention
+- [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — Sparse Attention Mechanisms for Vision Transformers
 
 <!--
