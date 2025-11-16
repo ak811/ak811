@@ -38,11 +38,6 @@ Some highlights from my CV:
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
-### Game Theory
-- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
-- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics  
-- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
-
 ### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
 - [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
@@ -50,6 +45,11 @@ Some highlights from my CV:
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
   
+### Game Theory
+- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
+- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics  
+- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
+
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
