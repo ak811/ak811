@@ -1,5 +1,6 @@
 Hi, my name is Ali Rahimian, and I'm a graduate research assistant at the Charlotte Machine Learning Lab (CharMLab), where I work on sparse attention, efficient transformer models, and visual representation learning.
 
+<!--
 Some highlights from my CV:
 - 2nd Place — JCAL Programming Contest *(May 2018)*
 - 3rd Place — Sharif ICT Challenge *(Aug 2019)*
@@ -7,6 +8,7 @@ Some highlights from my CV:
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Programming Marathon *(Sep 2019)*
 - Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
+-->
 
 ## Selected Repositories
 ### Research Projects (2024-2025)
