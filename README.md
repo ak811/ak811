@@ -46,15 +46,18 @@ Some highlights from my CV:
 ### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
 - [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
-- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency  
-
+- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
+- [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
+- [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
+  
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
 
 ### Software Development
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
-- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams  
+- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
+- [parkez](https://github.com/Park-EZ/parkez) — Campus parking spot availability app
 
 <!--
 ## Selected Repositories
