@@ -47,6 +47,10 @@ Some highlights from my CV:
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
   
+**Competitive Programming Profiles**  
+- Codeforces: https://codeforces.com/profile/Ali811  
+- Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
+  
 ### Game Theory
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
 - [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics  
