@@ -30,7 +30,7 @@ Some highlights from my CV:
 - [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
 
 ### Distributed & Cloud Computing
-- [sparxiv](https://github.com/ak811/sparxiv) — A Spark-Based Recommender System for arXiv
+- [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
