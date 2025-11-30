@@ -39,12 +39,12 @@ Some highlights from my CV:
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
 ### Algorithms & Competitive Programming
+- [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
+- [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
 - [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
 - [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
-- [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
-- [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
-  
+
 **Competitive Programming Profiles**  
 - Codeforces: https://codeforces.com/profile/Ali811  
 - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
