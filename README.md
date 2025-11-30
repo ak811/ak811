@@ -39,6 +39,7 @@ Some highlights from my CV:
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
 ### Algorithms & Competitive Programming
+- [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
