@@ -63,7 +63,7 @@ Some highlights from my CV:
 ### Software Development
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
 - [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
-- [parkez](https://github.com/Park-EZ/parkez) — Campus parking spot availability app
+- [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
 
 <!--
 ## Selected Repositories
