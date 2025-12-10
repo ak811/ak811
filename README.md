@@ -20,13 +20,6 @@ Some highlights from my CV:
 - sparse-upop — Unified and progressive pruning
 -->
 
-### Computer Vision & Deep Learning (2022-2023)
-- [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
-- [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
-- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
-- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
-- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
-
 ### Distributed & Cloud Computing
 - [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
@@ -37,6 +30,13 @@ Some highlights from my CV:
 - [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — Hadoop-MapReduce-WordCount  
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
+
+### Computer Vision & Deep Learning (2022-2023)
+- [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
+- [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
+- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
+- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
+- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
 
 ### Algorithms & Competitive Programming
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
