@@ -15,7 +15,7 @@ Some highlights from my CV:
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning: PyTorch Implementation
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization: PyTorch Implementation
-- 
+
 <!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
 - sparse-iformer — Transformer-based image modeling  
