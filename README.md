@@ -34,7 +34,7 @@ Some highlights from my CV:
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
-### Computer Vision & Deep Learning (2022-2023)
+### Computer Vision & Deep Learning
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
