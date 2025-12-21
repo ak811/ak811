@@ -36,7 +36,8 @@ Some highlights from my CV:
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
 - [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
 - [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
-- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)  
+- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)
+- [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
 
 ### Algorithms & Competitive Programming
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
