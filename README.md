@@ -36,6 +36,7 @@ Some highlights from my CV:
 
 ### Computer Vision & Deep Learning (2022-2023)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
+- [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) — Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
 - [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
 - [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
