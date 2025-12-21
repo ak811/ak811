@@ -12,6 +12,7 @@ Some highlights from my CV:
 ### Research Projects (2024-2025)
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
+- [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 
 <!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
@@ -33,7 +34,6 @@ Some highlights from my CV:
 
 ### Computer Vision & Deep Learning (2022-2023)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
-- [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
 - [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
