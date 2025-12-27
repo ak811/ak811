@@ -9,13 +9,18 @@ Some highlights from my CV:
 - Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
 
 ## Selected Repositories
-### Research Projects (2024-2025)
+### Efficient Transformer Models (2024-2025)
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization
+
+### Optimization for Machine Learning
+- [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
+- [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
+- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
 
 ### Computer Vision & Deep Learning
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
@@ -27,12 +32,6 @@ Some highlights from my CV:
 - [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
 - [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
 - [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)
-
-### Optimization for machine learning
-- [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
-- [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
-- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
-
 
 <!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
