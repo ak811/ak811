@@ -17,6 +17,23 @@ Some highlights from my CV:
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization
 
+### Computer Vision & Deep Learning
+- [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
+- [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
+- [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
+- [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) — Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
+- [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
+- [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
+- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
+- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
+- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)
+
+### Optimization for machine learning
+- [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
+- [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
+- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
+
+
 <!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
 - sparse-iformer — Transformer-based image modeling  
@@ -35,17 +52,6 @@ Some highlights from my CV:
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
-### Computer Vision & Deep Learning
-- [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
-- [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
-- [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
-- [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) — Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
-- [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
-- [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
-- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
-- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
-- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)
-
 ### Algorithms & Competitive Programming
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
@@ -61,8 +67,7 @@ Some highlights from my CV:
   
 ### Game Theory
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
-- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics  
-- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
+- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics
 
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
