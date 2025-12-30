@@ -11,7 +11,6 @@ Some highlights from my CV:
 ## Selected Repositories
 ### Efficient Transformer Models (2024-2025)
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
-- [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
@@ -23,6 +22,7 @@ Some highlights from my CV:
 - [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization  
 
 ### Computer Vision & Deep Learning
+- [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
