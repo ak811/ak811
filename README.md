@@ -24,6 +24,12 @@ Some highlights from my CV:
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
 
+### Deep Reinforcement Learning & Game Theory
+- [pong-dqn](https://github.com/ak811/pong-dqn) — Pong DQN: Deep Q-Learning on Atari Pong
+- [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) — FrozenLake Q-Learning
+- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics
+- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
+
 ### Computer Vision & Deep Learning
 - [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
@@ -67,10 +73,6 @@ Some highlights from my CV:
 - Codeforces: https://codeforces.com/profile/Ali811  
 - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
   
-### Game Theory
-- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
-- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics
-
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
