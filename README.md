@@ -25,6 +25,7 @@ Some highlights from my CV:
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
 
 ### Deep Reinforcement Learning & Game Theory
+- [lunarlander-ppo](https://github.com/ak811/lunarlander-ppo) — LunarLander PPO
 - [pong-dqn](https://github.com/ak811/pong-dqn) — Pong DQN: Deep Q-Learning on Atari Pong
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) — FrozenLake Q-Learning
 - [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics
