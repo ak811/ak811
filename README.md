@@ -25,6 +25,7 @@ Some highlights from my CV:
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
 
 ### Deep Reinforcement Learning & Game Theory
+- [ctrl](https://github.com/ak811/ctrl) — CTRL: Cross-Task Reinforcement Learning
 - [carracing-ppo](https://github.com/ak811/carracing-ppo) — CarRacing PPO (Gymnasium + Stable-Baselines3)
 - [pong-dqn](https://github.com/ak811/pong-dqn) — Pong DQN: Deep Q-Learning on Atari Pong
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) — FrozenLake Q-Learning
