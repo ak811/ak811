@@ -64,16 +64,18 @@ Some highlights from my CV:
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
-### Algorithms & Competitive Programming
+### Parallel Computing
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
-- [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design  
 - [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
 - [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
 
-**Competitive Programming Profiles**  
+### Algorithms & Competitive Programming
+- [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design
+  
+**Competitive Programming Profiles**
 - Codeforces: https://codeforces.com/profile/Ali811  
 - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
   
