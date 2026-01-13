@@ -74,10 +74,9 @@ Some highlights from my CV:
 
 ### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design
-  
-**Competitive Programming Profiles**
-- Codeforces: https://codeforces.com/profile/Ali811  
-- Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
+- Profiles
+  - Codeforces: https://codeforces.com/profile/Ali811  
+  - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
   
 ### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
