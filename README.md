@@ -87,7 +87,9 @@ Some highlights from my CV:
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
 - [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
+- [kal](https://github.com/ak811/kal) — Kalshi Quick CLI + Demo Trader
 - Discord bots: [flag-frenzy](https://github.com/ak811/flag-frenzy), [threads](https://github.com/ak811/threads), [bomb-party](https://github.com/ak811/bomb-party), [community-votes](https://github.com/ak811/community-votes), [english-cafe](https://github.com/ak811/english-cafe), [esm-famil](https://github.com/ak811/esm-famil), [find-the-spy](https://github.com/ak811/find-the-spy), [game-of-life](https://github.com/ak811/game-of-life), [math-blitz](https://github.com/ak811/math-blitz), [melody-cafe](https://github.com/ak811/melody-cafe), [owl](https://github.com/ak811/owl), [perfect-match](https://github.com/ak811/perfect-match), [temp-vc](https://github.com/ak811/temp-vc), [zuzu](https://github.com/ak811/zuzu)
+
 <!--
 ## Selected Repositories
 ### Computer Vision & Deep Learning
