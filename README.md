@@ -86,7 +86,6 @@ Some highlights from my CV:
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
 - [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
-- [kal](https://github.com/ak811/kal) — Kalshi Quick CLI + Demo Trader
 - Discord bots:
   - Utility: [community-votes](https://github.com/ak811/community-votes), [temp-vc](https://github.com/ak811/temp-vc), [threads](https://github.com/ak811/threads), [infinity-bot](https://github.com/ak811/infinity-bot), [melody-cafe](https://github.com/ak811/melody-cafe), [owl](https://github.com/ak811/owl), [english-cafe](https://github.com/ak811/english-cafe)
   - Minigames: [game-of-life](https://github.com/ak811/game-of-life), [bomb-party](https://github.com/ak811/bomb-party), [find-the-spy](https://github.com/ak811/find-the-spy), [zuzu](https://github.com/ak811/zuzu), [esm-famil](https://github.com/ak811/esm-famil), [math-blitz](https://github.com/ak811/math-blitz), [flag-frenzy](https://github.com/ak811/flag-frenzy), [perfect-match](https://github.com/ak811/perfect-match)
