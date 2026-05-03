@@ -9,7 +9,7 @@ Some highlights from my CV:
 - Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
 
 ## Selected Repositories
-### Efficient Transformer Models (2024-2025)
+### Efficient Transformer Models
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmarks](https://github.com/ak811/sparse-attention-benchmarks) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
