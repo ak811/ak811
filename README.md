@@ -1,5 +1,3 @@
-Building scalable software and contributing code since 2018. Today, I bridge applied AI research with production-ready, scalable systems. My academic research centers on reducing computational bottlenecks in deep learning, enabling highly complex models to run efficiently.
-
 Some highlights from my CV:
 - 2nd Place — JCAL Programming Contest *(May 2018)*
 - 3rd Place — Sharif ICT Challenge *(Aug 2019)*
