@@ -86,7 +86,7 @@ Some highlights from my CV:
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
 - Discord bots:
   - Utility: [community-votes](https://github.com/ak811/community-votes), [temp-vc](https://github.com/ak811/temp-vc), [threads](https://github.com/ak811/threads), [infinity-bot](https://github.com/ak811/infinity-bot), [melody-cafe](https://github.com/ak811/melody-cafe), [owl](https://github.com/ak811/owl), [english-cafe](https://github.com/ak811/english-cafe)
-  - Minigames: [game-of-life](https://github.com/ak811/game-of-life), [bomb-party](https://github.com/ak811/bomb-party), [find-the-spy](https://github.com/ak811/find-the-spy), [zuzu](https://github.com/ak811/zuzu), [esm-famil](https://github.com/ak811/esm-famil), [math-blitz](https://github.com/ak811/math-blitz), [flag-frenzy](https://github.com/ak811/flag-frenzy), [perfect-match](https://github.com/ak811/perfect-match)
+  - Minigames: [game-of-life](https://github.com/ak811/game-of-life), [bomb-party](https://github.com/ak811/bomb-party), [find-the-spy](https://github.com/ak811/find-the-spy)
 
 <!--
  ### Most used languages in public repositories:  -->
