@@ -1,10 +1,10 @@
 Some highlights from my CV:
 - 2nd Place — JCAL Programming Contest *(May 2018)*
-- 3rd Place — Sharif ICT Challenge *(Aug 2019)*
-- 4th Place — Sharif Spaghetti Programming Contest *(Dec 2019)*
+- 3rd Place — Sharif ICT Fintech Hackathon *(Aug 2019)*
+- 4th Place — Sharif Obfuscated C Code Contest *(Dec 2019)*
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
-- 31st Place — Mobile Programming Marathon *(Sep 2019)*
-- Certificate of Achievement — 17th ACM ICPC *(Nov 2019)*
+- 31st Place — Mobile Apps Programming Hackathon *(Sep 2019)*
+- Honorable Mention — 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
 
 ## Selected Repositories
 ### Efficient Transformer Models
