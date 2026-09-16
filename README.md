@@ -6,7 +6,7 @@ Some highlights from my CV:
 - 4th Place — Sharif Obfuscated C Code Contest *(Dec 2019)*
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Apps Programming Hackathon *(Sep 2019)*
-- Honorable Mention — 17th ACM ICPC Asia Regional Contest *(Nov 2019)*
+- Honorable Mention — 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
 
 ## Selected Repositories
 ### Efficient Transformer Models
