@@ -58,7 +58,7 @@ Some highlights from my CV:
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
 
 ### Computer Vision & Deep Learning
-- [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
+- [TruthLens](https://github.com/ak811/truthlens) — Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) — Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
@@ -87,7 +87,7 @@ Some highlights from my CV:
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
 
 ### Software Development
-- [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
+- [Jaga](https://github.com/ak811/jaga) — A 2D/3D Android game development framework
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) — Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
 - Discord bots:
