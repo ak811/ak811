@@ -16,17 +16,17 @@ Some highlights from my CV:
 ### Efficient Transformer Models
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
-- [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization
+- [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 
 ### Optimization for Machine Learning
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
 - [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
-- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) — Ridge Regression Hyperparameter Sweep
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
+- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization
 
 ### Distributed & Cloud Computing
 - [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
