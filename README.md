@@ -1,12 +1,12 @@
 I'm Ali Rahimian, and I recently received my M.S. in Computer Science from UNC Charlotte, where I was a graduate research assistant at the Charlotte Machine Learning Lab (CharMLab). My research focused on sparse attention, efficient Transformer models, and visual representation learning, including work on [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) and [TruthLens](https://github.com/ak811/truthlens) (ICML 2025).
 
 Some highlights from my CV:
+- Honorable Mention — 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
 - 2nd Place — JCAL Programming Contest *(May 2018)*
 - 3rd Place — Sharif ICT Fintech Hackathon *(Aug 2019)*
 - 4th Place — Sharif Obfuscated C Code Contest *(Dec 2019)*
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Apps Programming Hackathon *(Sep 2019)*
-- Honorable Mention — 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
 
 ## Selected Repositories
 ### Efficient Transformer Models
