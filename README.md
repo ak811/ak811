@@ -14,7 +14,7 @@ Some highlights from my CV:
 
 ## Selected Repositories
 ### Efficient Transformer Models
-- [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
+- [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization
@@ -26,26 +26,26 @@ Some highlights from my CV:
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) — Ridge Regression Hyperparameter Sweep
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
-- [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization
+- [genetic-simulated-annealing-optimization](https://github.com/ak811/genetic-simulated-annealing-optimization) — Genetic & simulated annealing optimization
 
 ### Distributed & Cloud Computing
-- [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
+- [Sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
 - [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) — Music Streaming Analysis Using Spark Structured APIs  
 - [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard Similarity with Hadoop MapReduce  
 - [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — Hadoop-MapReduce-WordCount  
-- [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
-- [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
+- [flask-redis-docker-compose](https://github.com/ak811/flask-redis-docker-compose) — Flask + Redis with Docker Compose  
+- [docker-container-examples](https://github.com/ak811/docker-container-examples) — Docker Container Examples
 
 ### Parallel Computing
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
-- [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
-- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
+- [rapid-data-processing](https://github.com/ak811/rapid-data-processing) — Rapid transaction data processing with SQLite  
+- [blockchain-transaction-concurrency](https://github.com/ak811/blockchain-transaction-concurrency) — Blockchain transaction concurrency
 
 ### Deep Reinforcement Learning & Game Theory
 - [ctrl](https://github.com/ak811/ctrl) — CTRL: Cross-Task Reinforcement Learning
@@ -59,15 +59,15 @@ Some highlights from my CV:
 
 ### Computer Vision & Deep Learning
 - [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
-- [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
+- [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) — Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) — SSL-First Image Classification (MoCo + Joint Optimization)
 - [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) — Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
 - [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) — MNIST SimpleNet with PyTorch
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) — Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
-- [ira](https://github.com/ak811/ira) — Real-time keypoint detection (face, eyes, edges)
-- [hsfc](https://github.com/ak811/hsfc) — Hand segmentation & finger counting with convex hull
-- [kcnn](https://github.com/ak811/kcnn) — CNN for image classification (TensorFlow/Keras, MNIST)
+- [realtime-facial-keypoint-detection](https://github.com/ak811/realtime-facial-keypoint-detection) — Real-time keypoint detection (face, eyes, edges)
+- [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) — Hand segmentation & finger counting with convex hull
+- [keras-cnn-classifier](https://github.com/ak811/keras-cnn-classifier) — CNN for image classification (TensorFlow/Keras, MNIST)
 
 <!--
 - sparse-swin-transformer — Efficient Swin Transformer variants  
@@ -83,12 +83,12 @@ Some highlights from my CV:
   - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
   
 ### Systems, Networking & Security
-- [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
+- [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) — TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
 
 ### Software Development
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
-- [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
+- [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) — Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
 - Discord bots:
   - Utility: [community-votes](https://github.com/ak811/community-votes), [temp-vc](https://github.com/ak811/temp-vc), [threads](https://github.com/ak811/threads), [infinity-bot](https://github.com/ak811/infinity-bot), [melody-cafe](https://github.com/ak811/melody-cafe), [owl](https://github.com/ak811/owl), [english-cafe](https://github.com/ak811/english-cafe)
