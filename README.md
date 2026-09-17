@@ -22,7 +22,7 @@ Some highlights from my CV:
 
 ### Optimization for Machine Learning
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
-- [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
+- [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) — Gradient Descent Convergence: Methods and Empirical Behavior
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) — Ridge Regression Hyperparameter Sweep
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
