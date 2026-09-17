@@ -1,4 +1,8 @@
-I'm Ali Rahimian, and I recently received my M.S. in Computer Science from UNC Charlotte, where I was a graduate research assistant at the Charlotte Machine Learning Lab (CharMLab). My research focused on sparse attention, efficient Transformer models, and visual representation learning, including work on [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) and [TruthLens](https://github.com/ak811/truthlens) (ICML 2025).
+## Ali Rahimian
+
+**Machine Learning Engineer · Computer Vision & Efficient Deep Learning · MS CS, UNC Charlotte**
+
+I build efficient deep learning systems. My graduate research at the Charlotte Machine Learning Lab (CharMLab) focused on sparse attention, efficient Transformers, and visual representation learning, including work on [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) and [TruthLens](https://github.com/ak811/truthlens) (ICML 2025).
 
 Some highlights from my CV:
 - Honorable Mention — 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
