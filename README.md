@@ -1,4 +1,4 @@
-# Ali Rahimian
+## Ali Rahimian
 
 **Machine Learning Engineer · Computer Vision & Efficient Deep Learning · MS CS, UNC Charlotte**
 
