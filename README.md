@@ -48,7 +48,7 @@ Some highlights from my CV:
 - [blockchain-transaction-concurrency](https://github.com/ak811/blockchain-transaction-concurrency) — Blockchain transaction concurrency
 
 ### Deep Reinforcement Learning & Game Theory
-- [ctrl](https://github.com/ak811/ctrl) — CTRL: Cross-Task Reinforcement Learning
+- [CTRL](https://github.com/ak811/ctrl) — Cross-Task Reinforcement Learning
 - [carracing-ppo](https://github.com/ak811/carracing-ppo) — CarRacing PPO (Gymnasium + Stable-Baselines3)
 - [pong-dqn](https://github.com/ak811/pong-dqn) — Pong DQN: Deep Q-Learning on Atari Pong
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) — FrozenLake Q-Learning
