@@ -24,6 +24,25 @@ Some highlights from my CV:
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
 
+### Distributed & Cloud Computing
+- [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
+- [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
+- [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
+- [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
+- [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) — Music Streaming Analysis Using Spark Structured APIs  
+- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard Similarity with Hadoop MapReduce  
+- [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — Hadoop-MapReduce-WordCount  
+- [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
+- [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
+
+### Parallel Computing
+- [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
+- [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
+- [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
+- [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
+- [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
+- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
+
 ### Deep Reinforcement Learning & Game Theory
 - [ctrl](https://github.com/ak811/ctrl) — CTRL: Cross-Task Reinforcement Learning
 - [carracing-ppo](https://github.com/ak811/carracing-ppo) — CarRacing PPO (Gymnasium + Stable-Baselines3)
@@ -52,25 +71,6 @@ Some highlights from my CV:
 - sparse-convit — Hybrid convolution + vision transformer  
 - sparse-upop — Unified and progressive pruning
 -->
-
-### Distributed & Cloud Computing
-- [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
-- [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
-- [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
-- [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) — Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL  
-- [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) — Music Streaming Analysis Using Spark Structured APIs  
-- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) — Jaccard Similarity with Hadoop MapReduce  
-- [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) — Hadoop-MapReduce-WordCount  
-- [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
-- [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
-
-### Parallel Computing
-- [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
-- [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
-- [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
-- [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) — Parallel Prefix Sum With OpenMP
-- [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
-- [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
 
 ### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design
