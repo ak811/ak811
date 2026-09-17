@@ -12,15 +12,15 @@ Some highlights from my CV:
 - 10th Place — JavaCup Programming Contest *(Oct 2019)*
 - 31st Place — Mobile Apps Programming Hackathon *(Sep 2019)*
 
-## Selected Repositories
-### Efficient Transformer Models
+### Selected Repositories
+#### Efficient Transformer Models
 - [fibottention](https://github.com/Charlotte-CharMLab/Fibottention) — Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) — A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) — Attention Is All You Need: A PyTorch Implementation from Scratch
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) — Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) — Linear Quantization
 
-### Optimization for Machine Learning
+#### Optimization for Machine Learning
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) — Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
 - [gradient-descent-lab](https://github.com/ak811/gradient-descent-lab) — Gradient Descent Lab: Methods and Empirical Behavior
 - [jina](https://github.com/ak811/jina) — Genetic & simulated annealing optimization
@@ -28,7 +28,7 @@ Some highlights from my CV:
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) — ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) — Nonlinear Decision Boundaries with a Two-Layer Neural Network
 
-### Distributed & Cloud Computing
+#### Distributed & Cloud Computing
 - [sparxiv](https://github.com/thejasprab/Sparxiv) — A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) — AWS Serverless Data Analytics Pipeline
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) — AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
@@ -39,7 +39,7 @@ Some highlights from my CV:
 - [docker](https://github.com/ak811/docker) — Flask + Redis with Docker Compose  
 - [docker-containers](https://github.com/ak811/docker-containers) — Docker Containers  
 
-### Parallel Computing
+#### Parallel Computing
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) — Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) — CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) — Merge Sort: Parallelization Study
@@ -47,7 +47,7 @@ Some highlights from my CV:
 - [data-processing](https://github.com/ak811/data-processing) — Fast transaction data processing with SQLite  
 - [parallel-computation](https://github.com/ak811/parallel-computation) — Blockchain transaction concurrency
 
-### Deep Reinforcement Learning & Game Theory
+#### Deep Reinforcement Learning & Game Theory
 - [ctrl](https://github.com/ak811/ctrl) — CTRL: Cross-Task Reinforcement Learning
 - [carracing-ppo](https://github.com/ak811/carracing-ppo) — CarRacing PPO (Gymnasium + Stable-Baselines3)
 - [pong-dqn](https://github.com/ak811/pong-dqn) — Pong DQN: Deep Q-Learning on Atari Pong
@@ -57,7 +57,7 @@ Some highlights from my CV:
 - [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding)— Pac-Man RL agent with BFS/DFS/A* heuristics
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) — Optimal decision-making with minimax pruning  
 
-### Computer Vision & Deep Learning
+#### Computer Vision & Deep Learning
 - [truthlens](https://github.com/ak811/truthlens) — TruthLens: Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [watershed](https://github.com/ak811/watershed) — Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) — One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
@@ -76,17 +76,17 @@ Some highlights from my CV:
 - sparse-upop — Unified and progressive pruning
 -->
 
-### Algorithms & Competitive Programming
+#### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) — ACM-ICPC problems & algorithm design
 - Profiles
   - Codeforces: https://codeforces.com/profile/Ali811  
   - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
   
-### Systems, Networking & Security
+#### Systems, Networking & Security
 - [tcp-socket](https://github.com/ak811/tcp-socket) — TCP-based messenger  
 - [aes-encryption](https://github.com/ak811/aes-encryption) — AES encryption/decryption
 
-### Software Development
+#### Software Development
 - [jaga](https://github.com/ak811/jaga) — 2D/3D Android game development framework
 - [ase](https://github.com/ak811/ase) — Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) — Campus parking spot availability app
