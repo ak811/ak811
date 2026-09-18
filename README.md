@@ -12,7 +12,17 @@ Some highlights from my CV:
 - 10th Place – JavaCup Programming Contest *(Oct 2019)*
 - 31st Place – Mobile Apps Programming Hackathon *(Sep 2019)*
 
-## Selected Repositories
+## Selected open source
+
+- **[Fibottention](https://github.com/Charlotte-CharMLab/Fibottention)** – Wythoff/Fibonacci sparse attention cutting ViT self-attention from $O(N²)$ to $O(N log N)$
+- **[TruthLens](https://github.com/ak811/truthlens)** – Training-free deepfake data verification through VQA-style probing of vision-language models; ICML 2025
+- **[Sparxiv](https://github.com/thejasprab/Sparxiv)** — Spark recommender over ~3M arXiv papers: Parquet ETL, TF-IDF with MLlib, and a web front end
+- **[sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite)** — Sparse attention benchmarks with distributed training and hardware profiling
+- **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation)** — Sequential, OpenMP, and CUDA N-body simulations with cross-backend performance benchmarking
+- **[infinity-bot](https://github.com/ak811/infinity-bot)** — Discord community bot with ~300 Python modules across 72 independently loadable extensions
+
+
+## Other work
 ### Efficient Transformer Models
 - [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) – Inceptive Visual Representation Learning with Diverse Attention Across Heads
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
@@ -36,8 +46,6 @@ Some highlights from my CV:
 - [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) – Music Streaming Analysis Using Spark Structured APIs  
 - [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) – Jaccard Similarity with Hadoop MapReduce  
 - [hadoop-mapreduce-wordcount](https://github.com/ak811/hadoop-mapreduce-wordcount) – Hadoop-MapReduce-WordCount  
-- [flask-redis-docker-compose](https://github.com/ak811/flask-redis-docker-compose) – Flask + Redis with Docker Compose  
-- [docker-container-examples](https://github.com/ak811/docker-container-examples) – Docker Container Examples
 
 ### Parallel Computing
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
