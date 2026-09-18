@@ -7,7 +7,7 @@
 - **10th Place – JavaCup Programming Contest *(Oct 2019)***
 - **31st Place – Mobile Apps Programming Hackathon *(Sep 2019)***
 
-### **Selected open source**
+### **Selected Repositories**
 
 - **[Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) – Wythoff/Fibonacci sparse attention cutting ViT self-attention from $\boldsymbol{O(N^2)}$ to $\boldsymbol{O(N \log N)}$**
 - **[TruthLens](https://github.com/ak811/truthlens) – Training-free deepfake data verification through VQA-style probing of vision-language models; ICML 2025**
