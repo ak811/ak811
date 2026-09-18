@@ -17,7 +17,7 @@
 - **[sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention benchmarks with distributed training and hardware profiling**
 - **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Sequential, OpenMP, and CUDA N-body simulations**
 
-#### **Machine Learning and Efficient Transformer Models**
+### **Machine Learning and Efficient Transformer Models**
 
 - **[fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) – Fine-grained Pruning**
 - **[linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) – Linear Quantization**
@@ -29,7 +29,7 @@
 - **[nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) – Nonlinear Decision Boundaries with a Two-Layer Neural Network**
 - **[genetic-simulated-annealing-optimization](https://github.com/ak811/genetic-simulated-annealing-optimization) – Genetic & simulated annealing optimization**
 
-#### **Computer Vision & Deep Learning**
+### **Computer Vision & Deep Learning**
 
 - **[TruthLens](https://github.com/ak811/truthlens) – Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)**
 - **[watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Image segmentation with Watershed algorithm**
@@ -42,7 +42,7 @@
 - **[hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with convex hull**
 - **[keras-cnn-classifier](https://github.com/ak811/keras-cnn-classifier) – CNN for image classification (TensorFlow/Keras, MNIST)**
 
-#### **Deep Reinforcement Learning & Game Theory**
+### **Deep Reinforcement Learning & Game Theory**
 
 - **[CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning**
 - **[carracing-ppo](https://github.com/ak811/carracing-ppo) – CarRacing PPO (Gymnasium + Stable-Baselines3)**
@@ -53,7 +53,7 @@
 - **[pacman-pathfinding](https://github.com/ak811/pacman-pathfinding) – Pac-Man RL agent with BFS/DFS/A\* heuristics**
 - **[alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) – Optimal decision-making with minimax pruning**
 
-#### **Distributed & Cloud Computing**
+### **Distributed & Cloud Computing**
 
 - **[Sparxiv](https://github.com/thejasprab/Sparxiv) – A Spark-Based Recommender System for arXiv**
 - **[aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) – AWS Serverless Data Analytics Pipeline**
@@ -62,7 +62,7 @@
 - **[spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) – Music Streaming Analysis Using Spark Structured APIs**
 - **[jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) – Jaccard Similarity with Hadoop MapReduce**
 
-#### **Parallel Computing**
+### **Parallel Computing**
 
 - **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations**
 - **[cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) – CUDA H2D/D2H Bandwidth Study**
@@ -71,14 +71,14 @@
 - **[rapid-data-processing](https://github.com/ak811/rapid-data-processing) – Rapid transaction data processing with SQLite**
 - **[blockchain-transaction-concurrency](https://github.com/ak811/blockchain-transaction-concurrency) – Blockchain transaction concurrency**
 
-#### **Algorithms & Competitive Programming**
+### **Algorithms & Competitive Programming**
 
 - **[competitive-programming](https://github.com/ak811/competitive-programming) – ACM-ICPC problems & algorithm design**
 - **Profiles**
   - **Codeforces: [https://codeforces.com/profile/Ali811](https://codeforces.com/profile/Ali811)**
   - **Timus Online Judge: [https://acm.timus.ru/author.aspx?id=238630](https://acm.timus.ru/author.aspx?id=238630)**
 
-#### **Software Development**
+### **Software Development**
 
 - **[Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework**
 - **[EZpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app**
