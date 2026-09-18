@@ -13,11 +13,10 @@ Selected Repositories
 - [Sparxiv](https://github.com/thejasprab/Sparxiv) – Spark recommender over ~3M arXiv papers: Parquet ETL, TF-IDF with MLlib, and a web front end
 - [CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning
 - [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
-- [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention benchmarks with distributed training and hardware profiling
-- [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Sequential, OpenMP, and CUDA N-body simulations
 
 Machine Learning and Efficient Transformer Models
 
+- [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention benchmarks with distributed training and hardware profiling
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) – Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) – Linear Quantization
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) – Attention Is All You Need: A PyTorch Implementation from Scratch
@@ -63,6 +62,7 @@ Distributed & Cloud Computing
 
 Parallel Computing
 
+- [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Sequential, OpenMP, and CUDA N-body simulations
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) – CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) – Merge Sort: Parallelization Study
