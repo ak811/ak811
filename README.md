@@ -5,7 +5,6 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - 3rd Place – Sharif ICT Fintech Hackathon (Aug 2019)
 - 4th Place – Sharif Obfuscated C Code Contest (Dec 2019)
 - 10th Place – JavaCup Programming Contest (Oct 2019)
-- 31st Place – Mobile Apps Programming Hackathon (Sep 2019)
 
 Selected Repositories
 
