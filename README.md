@@ -66,7 +66,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with convex hull
 - [keras-cnn-classifier](https://github.com/ak811/keras-cnn-classifier) – CNN for image classification (TensorFlow/Keras, MNIST)
 
-#### ACM-ICPC
+#### Algorithms & Competitive Programming
 - [competitive-programming](https://github.com/ak811/competitive-programming) – ACM-ICPC problems & algorithm design
 - Profiles
   - Codeforces: https://codeforces.com/profile/Ali811  
