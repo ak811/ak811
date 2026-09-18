@@ -50,7 +50,7 @@
 - **[frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) – FrozenLake Q-Learning**
 - **[lunarlander-ppo](https://github.com/ak811/lunarlander-ppo) – LunarLander Proximal Policy Optimization**
 - **[lunarlander-dqn-per-noise](https://github.com/ak811/lunarlander-dqn-per-noise) – LunarLander DQN: Prioritized Replay + Parameter Noise**
-- **[pacman-pathfinding](https://github.com/ak811/pacman-pathfinding) – Pac-Man RL agent with BFS/DFS/A* heuristics**
+- **[pacman-pathfinding](https://github.com/ak811/pacman-pathfinding) – Pac-Man RL agent with BFS/DFS/A\* heuristics**
 - **[alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) – Optimal decision-making with minimax pruning**
 
 #### **Distributed & Cloud Computing**
