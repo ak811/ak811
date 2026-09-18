@@ -84,4 +84,4 @@ Software Development
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
-- [infinity-bot](https://github.com/ak811/infinity-bot) — Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
+- [infinity-bot](https://github.com/ak811/infinity-bot) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
