@@ -20,7 +20,7 @@ Some highlights from my CV:
 - **[sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite)** — Sparse attention benchmarks with distributed training and hardware profiling
 - **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation)** — Sequential, OpenMP, and CUDA N-body simulations with cross-backend performance benchmarking
 - [CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning
-- [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
+- [Jaga](https://github.com/ak811/jaga) – An 2D/3D Android game development framework
 
 ## Other work
 ### Efficient Transformer Models
@@ -84,7 +84,7 @@ Some highlights from my CV:
   - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
 
 ### Software Development
-- [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
+- [Jaga](https://github.com/ak811/jaga) – An 2D/3D Android game development framework
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
