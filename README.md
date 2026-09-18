@@ -81,11 +81,9 @@ Some highlights from my CV:
   - Codeforces: https://codeforces.com/profile/Ali811  
   - Timus Online Judge: https://acm.timus.ru/author.aspx?id=238630
 
-### Systems, Networking & Security
+### Software Development
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
-
-### Software Development
 - [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
