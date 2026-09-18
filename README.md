@@ -89,7 +89,7 @@ Some highlights from my CV:
 - [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
-- [infinity-bot](https://github.com/ak811/infinity-bot) — Discord community bot with ~300 Python modules across 72 independently loadable extensions
+- [infinity-bot](https://github.com/ak811/infinity-bot) — Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
 
 <!--
 - sparse-swin-transformer – Efficient Swin Transformer variants  
