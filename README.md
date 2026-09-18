@@ -6,7 +6,7 @@ Hi. My name is Ali Rahimian and these are some highlights from my CV:
 - 10th Place – JavaCup Programming Contest *(Oct 2019)*
 - 31st Place – Mobile Apps Programming Hackathon *(Sep 2019)*
 
-## Selected open source
+### Selected open source
 
 - **[Fibottention](https://github.com/Charlotte-CharMLab/Fibottention)** – Wythoff/Fibonacci sparse attention cutting ViT self-attention from $O(N²)$ to $O(N log N)$
 - **[TruthLens](https://github.com/ak811/truthlens)** – Training-free deepfake data verification through VQA-style probing of vision-language models; ICML 2025
@@ -16,15 +16,10 @@ Hi. My name is Ali Rahimian and these are some highlights from my CV:
 - [CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning
 - [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
 
-## Other work
-### Efficient Transformer Models
-- [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) – Inceptive Visual Representation Learning with Diverse Attention Across Heads
-- [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – A Comprehensive Benchmark of Sparse Attention Mechanisms in Vision Transformers
+### Machine Learning and Efficient Transformer Models
 - [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) – Fine-grained Pruning
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) – Linear Quantization
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) – Attention Is All You Need: A PyTorch Implementation from Scratch
-
-### Optimization for Machine Learning
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) – Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
 - [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) – Gradient Descent Convergence: Methods and Empirical Behavior
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) – Ridge Regression Hyperparameter Sweep
