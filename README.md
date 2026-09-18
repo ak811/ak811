@@ -19,6 +19,8 @@ Some highlights from my CV:
 - **[Sparxiv](https://github.com/thejasprab/Sparxiv)** — Spark recommender over ~3M arXiv papers: Parquet ETL, TF-IDF with MLlib, and a web front end
 - **[sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite)** — Sparse attention benchmarks with distributed training and hardware profiling
 - **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation)** — Sequential, OpenMP, and CUDA N-body simulations with cross-backend performance benchmarking
+- [CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning
+- [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
 
 ## Other work
 ### Efficient Transformer Models
