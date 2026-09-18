@@ -1,4 +1,4 @@
-Hi. My name is Ali Rahimian and these are some highlights from my CV:
+Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - Honorable Mention – 17th ACM ICPC Asia Tehran Regional Contest *(Nov 2019)*
 - 2nd Place – JCAL Programming Contest *(May 2018)*
 - 3rd Place – Sharif ICT Fintech Hackathon *(Aug 2019)*
