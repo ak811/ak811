@@ -19,8 +19,6 @@ Some highlights from my CV:
 - **[Sparxiv](https://github.com/thejasprab/Sparxiv)** — Spark recommender over ~3M arXiv papers: Parquet ETL, TF-IDF with MLlib, and a web front end
 - **[sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite)** — Sparse attention benchmarks with distributed training and hardware profiling
 - **[cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation)** — Sequential, OpenMP, and CUDA N-body simulations with cross-backend performance benchmarking
-- **[infinity-bot](https://github.com/ak811/infinity-bot)** — Discord community bot with ~300 Python modules across 72 independently loadable extensions
-
 
 ## Other work
 ### Efficient Transformer Models
@@ -91,9 +89,7 @@ Some highlights from my CV:
 - [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
 - [ezpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
-- Discord bots:
-  - Utility: [community-votes](https://github.com/ak811/community-votes), [temp-vc](https://github.com/ak811/temp-vc), [threads](https://github.com/ak811/threads), [infinity-bot](https://github.com/ak811/infinity-bot), [melody-cafe](https://github.com/ak811/melody-cafe), [owl](https://github.com/ak811/owl), [english-cafe](https://github.com/ak811/english-cafe)
-  - Minigames: [game-of-life](https://github.com/ak811/game-of-life), [bomb-party](https://github.com/ak811/bomb-party), [find-the-spy](https://github.com/ak811/find-the-spy)
+- [infinity-bot](https://github.com/ak811/infinity-bot) — Discord community bot with ~300 Python modules across 72 independently loadable extensions
 
 <!--
 - sparse-swin-transformer – Efficient Swin Transformer variants  
