@@ -29,7 +29,6 @@ Machine Learning and Efficient Transformer Models
 
 Computer Vision & Deep Learning
 
-- [TruthLens](https://github.com/ak811/truthlens) – Training-Free Data Verification for Deepfake Images via VQA-style Probing (ICML 2025)
 - [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Image segmentation with Watershed algorithm
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – SSL-First Image Classification (MoCo + Joint Optimization)
@@ -42,7 +41,6 @@ Computer Vision & Deep Learning
 
 Deep Reinforcement Learning & Game Theory
 
-- [CTRL](https://github.com/ak811/ctrl) – Cross-Task Reinforcement Learning
 - [carracing-ppo](https://github.com/ak811/carracing-ppo) – CarRacing PPO (Gymnasium + Stable-Baselines3)
 - [pong-dqn](https://github.com/ak811/pong-dqn) – Pong DQN: Deep Q-Learning on Atari Pong
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) – FrozenLake Q-Learning
@@ -53,7 +51,6 @@ Deep Reinforcement Learning & Game Theory
 
 Distributed & Cloud Computing
 
-- [Sparxiv](https://github.com/thejasprab/Sparxiv) – A Spark-Based Recommender System for arXiv
 - [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) – AWS Serverless Data Analytics Pipeline
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) – AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) – Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL
