@@ -38,7 +38,7 @@ Computer Vision & Deep Learning
 
 Deep Reinforcement Learning & Game Theory
 
-- [carracing-ppo](https://github.com/ak811/carracing-ppo) – CarRacing PPO (Gymnasium + Stable-Baselines3)
+- [sb3-ppo-clip-carracing](https://github.com/ak811/sb3-ppo-clip-carracing) – SB3 PPO-Clip + GAE(λ) on CarRacing-v3 with CNN over 4 stacked 84x84 frames
 - [pong-dqn](https://github.com/ak811/pong-dqn) – Pong DQN: Deep Q-Learning on Atari Pong
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) – FrozenLake Q-Learning
 - [lunarlander-ppo](https://github.com/ak811/lunarlander-ppo) – LunarLander Proximal Policy Optimization
