@@ -23,7 +23,7 @@ Machine Learning and Efficient Transformer Models
 - [accelerated-gradient-methods](https://github.com/ak811/accelerated-gradient-methods) – Accelerated gradient methods: Momentum, Nesterov, and when theory misbehaves
 - [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) – Gradient descent variants compared across quadratic, nonconvex, and least-squares tasks
 - [closed-form-ridge-regression](https://github.com/ak811/closed-form-ridge-regression) – Ridge vs. OLS via normal equations: log-spaced λ sweep with pairwise interaction features
-- [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) – ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
+- [logistic-regression-naive-bayes](https://github.com/ak811/logistic-regression-naive-bayes) – Multiclass logistic regression (GD/IRLS) and Gaussian/Bernoulli Naive Bayes from scratch
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) – Nonlinear Decision Boundaries with a Two-Layer Neural Network
 - [genetic-simulated-annealing-optimization](https://github.com/ak811/genetic-simulated-annealing-optimization) – Genetic & simulated annealing optimization
 
