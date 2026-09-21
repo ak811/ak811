@@ -19,7 +19,7 @@ Machine Learning and Efficient Transformer Models
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention benchmarks with distributed training and hardware profiling
 - [vgg-magnitude-pruning](https://github.com/ak811/vgg-magnitude-pruning) – PyTorch implementation of Han et al. magnitude pruning on VGG
 - [linear-quantization-from-scratch](https://github.com/ak811/linear-quantization-from-scratch) – Linear quantization in PyTorch from first principles, down to int8 multiply + int32 accumulate
-- [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) – Attention Is All You Need: A PyTorch Implementation from Scratch
+- [transformer-encoder-from-scratch](https://github.com/ak811/transformer-encoder-from-scratch) – Transformer encoder in PyTorch, built up from scaled dot-product attention to a full stack
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) – Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
 - [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) – Gradient Descent Convergence: Methods and Empirical Behavior
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) – Ridge Regression Hyperparameter Sweep
