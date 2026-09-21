@@ -34,7 +34,7 @@ Computer Vision & Deep Learning
 - [vit-imagenet21k-finetune](https://github.com/ak811/vit-imagenet21k-finetune) – ImageNet-21k ViT-B/16 fine-tuned for 16-class image classification: 96.75% test accuracy
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Lucas-Kanade & Farneback optical flow, MeanShift/CAMShift, and OpenCV KCF/MIL trackers
 - [opencv-keypoint-detection](https://github.com/ak811/realtime-facial-keypoint-detection) – Real-time Haar-cascade face/eye detection with median-adaptive Canny edge extraction
-- [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with convex hull
+- [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation and finger counting with Convex Hull, Gaussian blur, contour detection
 
 Deep Reinforcement Learning & Game Theory
 
