@@ -25,7 +25,7 @@ Machine Learning and Efficient Transformer Models
 - [closed-form-ridge-regression](https://github.com/ak811/closed-form-ridge-regression) – Ridge vs. OLS via normal equations: log-spaced λ sweep with pairwise interaction features
 - [logistic-regression-naive-bayes](https://github.com/ak811/logistic-regression-naive-bayes) – Multiclass logistic regression (GD/IRLS) and Gaussian/Bernoulli Naive Bayes from scratch
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) – Two-layer classifier from scratch: manual backprop, gradient checks, nonlinear 2D boundaries
-- [genetic-simulated-annealing-optimization](https://github.com/ak811/genetic-simulated-annealing-optimization) – Genetic & simulated annealing optimization
+- [cross-in-tray-optimization](https://github.com/ak811/cross-in-tray-optimization) – Genetic algorithm and simulated annealing for the Cross-in-Tray global optimization benchmark
 
 Computer Vision & Deep Learning
 
