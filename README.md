@@ -30,7 +30,7 @@ Computer Vision & Deep Learning
 
 - [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – OpenCV watershed segmentation: median blur, contour detection, and custom seed generation
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-shot OpenCLIP classification with confidence-gated test-time prototype adaptation
-- [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – SSL-First Image Classification (MoCo + Joint Optimization)
+- [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – MoCo contrastive learning trained jointly with a supervised head from scratch
 - [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) – Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
 - [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) – MNIST SimpleNet with PyTorch
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
