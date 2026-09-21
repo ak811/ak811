@@ -28,7 +28,7 @@ Machine Learning and Efficient Transformer Models
 
 Computer Vision & Deep Learning
 
-- [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Image segmentation with Watershed algorithm: median blur, contour detection, and custom seed generation
+- [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – OpenCV watershed segmentation: median blur, contour detection, and custom seed generation
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-Shot Classification with OpenCLIP + Test-Time Prototype Adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – SSL-First Image Classification (MoCo + Joint Optimization)
 - [vit-transfer-learning-pipeline](https://github.com/ak811/vit-transfer-learning-pipeline) – Transfer Learning for Maximum Accuracy: ViT Fine-Tuning Pipeline
