@@ -12,7 +12,6 @@ Selected Repositories
 - [TruthLens](https://github.com/ak811/truthlens) – Training-free deepfake data verification via VQA-style probing of vision-language models; ICML 2025
 - [Sparxiv](https://github.com/thejasprab/Sparxiv) – Spark recommender over 3M+ arXiv papers: Parquet ETL, MLlib TF-IDF, CSR top-k search
 - [CTRL](https://github.com/ak811/ctrl) – Cross-task RL with PPO transfer, Reptile meta-learning, and EWC continual learning
-- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
 
 Machine Learning and Efficient Transformer Models
 
@@ -76,7 +75,7 @@ Algorithms & Competitive Programming
 
 Software Development
 
-- [Jaga](https://github.com/ak811/jaga) – A 2D/3D Android game development framework
+- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
