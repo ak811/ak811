@@ -21,7 +21,7 @@ Machine Learning and Efficient Transformer Models
 - [linear-quantization-from-scratch](https://github.com/ak811/linear-quantization-from-scratch) – Linear quantization in PyTorch from first principles, down to int8 multiply + int32 accumulate
 - [transformer-encoder-from-scratch](https://github.com/ak811/transformer-encoder-from-scratch) – Transformer encoder in PyTorch, built up from scaled dot-product attention to a full stack
 - [accelerated-gradient-methods](https://github.com/ak811/accelerated-gradient-methods) – Accelerated gradient methods: Momentum, Nesterov, and when theory misbehaves
-- [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) – Gradient Descent Convergence: Methods and Empirical Behavior
+- [gradient-descent-convergence](https://github.com/ak811/gradient-descent-convergence) – Gradient descent variants compared across quadratic, nonconvex, and least-squares tasks
 - [ridge-hyperparam-sweep](https://github.com/ak811/ridge-hyperparam-sweep) – Ridge Regression Hyperparameter Sweep
 - [logreg-naive-bayes](https://github.com/ak811/logreg-naive-bayes) – ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
 - [nonlinear-2d-classifier](https://github.com/ak811/nonlinear-2d-classifier) – Nonlinear Decision Boundaries with a Two-Layer Neural Network
