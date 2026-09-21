@@ -15,7 +15,7 @@ Selected Repositories
 
 Machine Learning and Efficient Transformer Models
 
-- [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention for ViTs at ~2% of dense FLOPs, benchmarked across 10 mechanisms
+- [two-percent-attention](https://github.com/ak811/two-percent-attention) – Sparse attention for ViTs at 2% of dense attention FLOPs, benchmarked across 10 mechanisms
 - [vgg-magnitude-pruning](https://github.com/ak811/vgg-magnitude-pruning) – PyTorch implementation of Han et al. magnitude pruning on VGG
 - [linear-quantization-from-scratch](https://github.com/ak811/linear-quantization-from-scratch) – Linear quantization in PyTorch from first principles, down to int8 multiply + int32 accumulate
 - [transformer-encoder-from-scratch](https://github.com/ak811/transformer-encoder-from-scratch) – Transformer encoder in PyTorch, built up from scaled dot-product attention to a full stack
