@@ -17,7 +17,7 @@ Selected Repositories
 Machine Learning and Efficient Transformer Models
 
 - [sparse-attention-benchmark-suite](https://github.com/ak811/sparse-attention-benchmark-suite) – Sparse attention benchmarks with distributed training and hardware profiling
-- [fine-grained-pruning](https://github.com/ak811/fine-grained-pruning) – Fine-grained Pruning
+- [vgg-magnitude-pruning](https://github.com/ak811/vgg-magnitude-pruning) – PyTorch implementation of Han et al. magnitude pruning on VGG
 - [linear-quantization-vgg](https://github.com/ak811/linear-quantization-vgg) – Linear Quantization
 - [attention-is-all-you-need](https://github.com/ak811/attention-is-all-you-need) – Attention Is All You Need: A PyTorch Implementation from Scratch
 - [accelerated-gradient](https://github.com/ak811/accelerated-gradient) – Accelerated Gradient Methods: Momentum, Nesterov, and When Theory Misbehaves
