@@ -32,11 +32,9 @@ Computer Vision & Deep Learning
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-shot OpenCLIP classification with confidence-gated test-time prototype adaptation
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – MoCo contrastive learning trained jointly with a supervised head from scratch
 - [vit-imagenet21k-finetune](https://github.com/ak811/vit-imagenet21k-finetune) – ImageNet-21k ViT-B/16 fine-tuned for 16-class image classification: 96.75% test accuracy
-- [mnist-simplenet-pytorch](https://github.com/ak811/mnist-simplenet-pytorch) – MNIST SimpleNet with PyTorch
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Real-time tracking (CAMShift, Lucas-Kanade, KCF, etc.)
 - [realtime-facial-keypoint-detection](https://github.com/ak811/realtime-facial-keypoint-detection) – Real-time keypoint detection (face, eyes, edges)
 - [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with convex hull
-- [keras-cnn-classifier](https://github.com/ak811/keras-cnn-classifier) – CNN for image classification (TensorFlow/Keras, MNIST)
 
 Deep Reinforcement Learning & Game Theory
 
