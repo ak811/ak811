@@ -39,7 +39,7 @@ Computer Vision & Deep Learning
 Deep Reinforcement Learning & Game Theory
 
 - [sb3-ppo-clip-carracing](https://github.com/ak811/sb3-ppo-clip-carracing) – SB3 PPO-Clip + GAE(λ) on CarRacing-v3 with CNN over 4 stacked 84x84 frames
-- [pong-dqn](https://github.com/ak811/pong-dqn) – Pong DQN: Deep Q-Learning on Atari Pong
+- [dqn-ddqn-pong-v5](https://github.com/ak811/dqn-ddqn-pong-v5) – DQN + Double DQN on ALE/Pong-v5 with replay, Huber loss, and difficulty 2–3 training
 - [frozenlake-qlearning](https://github.com/ak811/frozenlake-qlearning) – FrozenLake Q-Learning
 - [lunarlander-ppo](https://github.com/ak811/lunarlander-ppo) – LunarLander Proximal Policy Optimization
 - [lunarlander-dqn-per-noise](https://github.com/ak811/lunarlander-dqn-per-noise) – LunarLander DQN: Prioritized Replay + Parameter Noise
