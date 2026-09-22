@@ -31,7 +31,7 @@ Computer Vision & Deep Learning
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – MoCo contrastive learning trained jointly with a supervised head from scratch
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-shot OpenCLIP classification with confidence-gated test-time prototype adaptation
 - [vit-imagenet21k-finetune](https://github.com/ak811/vit-imagenet21k-finetune) – ImageNet-21k ViT-B/16 fine-tuned for 16-class image classification: 96.75% test accuracy
-- [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Segmentation with Watershed algorithm: median blur, contour detection, and custom seed generation
+- [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Segmentation with Watershed algorithm: median blur, contour detection, and custom seeds
 - [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with Gaussian blur, contour detection, and convex hull
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Lucas-Kanade & Farneback optical flow, MeanShift/CAMShift, and OpenCV KCF/MIL trackers
 - [opencv-keypoint-detection](https://github.com/ak811/realtime-facial-keypoint-detection) – Real-time Haar-cascade face/eye detection with median-adaptive Canny edge extraction
