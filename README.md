@@ -44,7 +44,6 @@ Deep Reinforcement Learning & Game Theory
 - [ppo-clip-lunarlander-v3](https://github.com/ak811/ppo-clip-lunarlander-v3) – From-scratch PPO-Clip on LunarLander-v3: categorical actor-critic, normalized GAE(λ), clip-ε decay
 - [dqn-replay-noise-ablation](https://github.com/ak811/dqn-replay-noise-ablation) – DQN ablation of prioritized vs uniform vs online replay, parameter noise vs ε-greedy
 - [pacman-search-agent](https://github.com/ak811/pacman-search-agent) – BFS/DFS/UCS/A* search agent with admissible Manhattan/Euclidean heuristics and a Pygame visualizer
-- [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) – Optimal decision-making with minimax pruning
 
 Distributed & Cloud Computing
 
