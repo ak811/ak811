@@ -47,7 +47,7 @@ Deep Reinforcement Learning & Game Theory
 
 Distributed & Cloud Computing
 
-- [aws-serverless-data-analytics-pipeline](https://github.com/ak811/aws-serverless-data-analytics-pipeline) – AWS Serverless Data Analytics Pipeline
+- [aws-event-driven-etl](https://github.com/ak811/aws-event-driven-etl) – Event-driven S3 → Lambda → Glue → Athena (Trino) ETL with a boto3/Flask dashboard on EC2
 - [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) – AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) – Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL
 - [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) – Music Streaming Analysis Using Spark Structured APIs
