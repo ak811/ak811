@@ -42,7 +42,7 @@ Deep Reinforcement Learning & Game Theory
 - [dqn-ddqn-pong-v5](https://github.com/ak811/dqn-ddqn-pong-v5) – DQN + Double DQN on ALE/Pong-v5 with replay, Huber loss, and difficulty 2–3 training
 - [tabular-qlearning-frozenlake-v1](https://github.com/ak811/tabular-qlearning-frozenlake-v1) – Tabular Q-learning on FrozenLake-v1: Bellman TD updates with ε-greedy 1.0→0.01 decay
 - [ppo-clip-lunarlander-v3](https://github.com/ak811/ppo-clip-lunarlander-v3) – From-scratch PPO-Clip on LunarLander-v3: categorical actor-critic, normalized GAE(λ), clip-ε decay
-- [lunarlander-dqn-per-noise](https://github.com/ak811/lunarlander-dqn-per-noise) – LunarLander DQN: Prioritized Replay + Parameter Noise
+- [dqn-replay-noise-ablation](https://github.com/ak811/dqn-replay-noise-ablation) – DQN ablation of prioritized vs uniform vs online replay, parameter noise vs ε-greedy
 - [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding) – Pac-Man RL agent with BFS/DFS/A\* heuristics
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) – Optimal decision-making with minimax pruning
 
