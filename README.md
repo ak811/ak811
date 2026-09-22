@@ -48,7 +48,7 @@ Deep Reinforcement Learning & Game Theory
 Distributed & Cloud Computing
 
 - [aws-event-driven-etl](https://github.com/ak811/aws-event-driven-etl) – Event-driven S3 → Lambda → Glue → Athena (Trino) ETL with a boto3/Flask dashboard on EC2
-- [aws-ecommerce-analytics-s3-glue-athena-pipeline](https://github.com/ak811/aws-ecommerce-analytics-s3-glue-athena-pipeline) – AWS E-Commerce Analytics Pipeline (S3 • Glue • Athena)
+- [aws-ecommerce-sales-analytics](https://github.com/ak811/aws-ecommerce-sales-analytics) – AWS S3 → Glue crawler → Athena window-function analytics on ~129k Kaggle e-commerce sales
 - [spark-structured-streaming](https://github.com/ak811/spark-structured-streaming) – Ride Sharing Analytics Using Spark Structured Streaming & Spark SQL
 - [spark-music-streaming-analysis](https://github.com/ak811/spark-music-streaming-analysis) – Music Streaming Analysis Using Spark Structured APIs
 - [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) – Jaccard Similarity with Hadoop MapReduce
