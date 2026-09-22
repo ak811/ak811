@@ -55,7 +55,6 @@ Distributed & Cloud Computing
 
 Parallel Computing
 
-- [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Sequential, OpenMP, and CUDA N-body simulations
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – Parallel N Body Simulation: Sequential, OpenMP, and CUDA Implementations
 - [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) – CUDA H2D/D2H Bandwidth Study
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) – Merge Sort: Parallelization Study
