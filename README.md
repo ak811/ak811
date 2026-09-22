@@ -51,7 +51,7 @@ Distributed & Cloud Computing
 - [aws-ecommerce-sales-analytics](https://github.com/ak811/aws-ecommerce-sales-analytics) – AWS S3 → Glue crawler → Athena window-function analytics on ~129k Kaggle e-commerce sales
 - [pyspark-ride-streaming](https://github.com/ak811/pyspark-ride-streaming) – PySpark Structured Streaming ride analytics: watermarked sliding windows, MLlib fare prediction
 - [pyspark-listening-behavior-analytics](https://github.com/ak811/pyspark-listening-behavior-analytics) – PySpark user listening behavior analytics: row_number ranking, genre loyalty, night-owl detection
-- [jaccard-mapreduce](https://github.com/ak811/jaccard-mapreduce) – Jaccard Similarity with Hadoop MapReduce
+- [hadoop-jaccard-similarity](https://github.com/ak811/hadoop-jaccard-similarity) – Three-stage Hadoop MapReduce pairwise Jaccard similarity via inverted index, benchmarked on 1 vs 3 DataNodes
 
 Parallel Computing
 
