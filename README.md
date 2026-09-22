@@ -43,7 +43,7 @@ Deep Reinforcement Learning & Game Theory
 - [tabular-qlearning-frozenlake-v1](https://github.com/ak811/tabular-qlearning-frozenlake-v1) – Tabular Q-learning on FrozenLake-v1: Bellman TD updates with ε-greedy 1.0→0.01 decay
 - [ppo-clip-lunarlander-v3](https://github.com/ak811/ppo-clip-lunarlander-v3) – From-scratch PPO-Clip on LunarLander-v3: categorical actor-critic, normalized GAE(λ), clip-ε decay
 - [dqn-replay-noise-ablation](https://github.com/ak811/dqn-replay-noise-ablation) – DQN ablation of prioritized vs uniform vs online replay, parameter noise vs ε-greedy
-- [pacman-pathfinding](https://github.com/ak811/pacman-pathfinding) – Pac-Man RL agent with BFS/DFS/A\* heuristics
+- [pacman-search-agent](https://github.com/ak811/pacman-search-agent) – BFS/DFS/UCS/A* search agent with admissible Manhattan/Euclidean heuristics and a Pygame visualizer
 - [alpha-beta-pruning](https://github.com/ak811/alpha-beta-pruning) – Optimal decision-making with minimax pruning
 
 Distributed & Cloud Computing
