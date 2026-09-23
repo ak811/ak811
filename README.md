@@ -56,7 +56,7 @@ Distributed & Cloud Computing
 Parallel Computing
 
 - [cuda-openmp-nbody-simulation](https://github.com/ak811/cuda-openmp-nbody-simulation) – O(N²) 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
-- [cuda-h2d-d2h-bandwidth-study](https://github.com/ak811/cuda-h2d-d2h-bandwidth-study) – CUDA H2D/D2H Bandwidth Study
+- [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
 - [mergesort-parallelization-study](https://github.com/ak811/mergesort-parallelization-study) – Merge Sort: Parallelization Study
 - [prefixsum-openmp-benchmark](https://github.com/ak811/prefixsum-openmp-benchmark) – Parallel Prefix Sum With OpenMP
 - [rapid-data-processing](https://github.com/ak811/rapid-data-processing) – Rapid transaction data processing with SQLite
