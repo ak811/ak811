@@ -59,7 +59,7 @@ Parallel Computing
 - [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
 - [openmp-bottom-up-mergesort](https://github.com/ak811/openmp-bottom-up-mergesort) – OpenMP bottom-up merge sort with merge-path partitioning, scaled to 10⁹ elements on 64 threads
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
-- [blockchain-transaction-concurrency](https://github.com/ak811/blockchain-transaction-concurrency) – Blockchain transaction concurrency
+- [bitcoin-merkle-engine](https://github.com/ak811/bitcoin-merkle-engine) – Parallel Bitcoin Merkle engine: SHA-256d trees, SPV proofs, PoW and SegWit commitment checks
 
 Algorithms & Competitive Programming
 
