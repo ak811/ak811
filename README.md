@@ -59,7 +59,6 @@ Parallel Computing
 - [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
 - [openmp-bottom-up-mergesort](https://github.com/ak811/openmp-bottom-up-mergesort) – OpenMP bottom-up merge sort with merge-path partitioning, scaled to 10⁹ elements on 64 threads
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
-- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
 - [blockchain-transaction-concurrency](https://github.com/ak811/blockchain-transaction-concurrency) – Blockchain transaction concurrency
 
 Algorithms & Competitive Programming
@@ -73,6 +72,7 @@ Software Development
 
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
+- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
