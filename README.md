@@ -71,7 +71,7 @@ Algorithms & Competitive Programming
 Software Development
 
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
-- [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking spot availability app
+- [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking management system
 - [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
 - [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
