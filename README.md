@@ -73,7 +73,7 @@ Software Development
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus parking management system
 - [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
-- [tcp-socket-messenger](https://github.com/ak811/tcp-socket-messenger) – TCP-based messenger
+- [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
 - [aes-encryption](https://github.com/ak811/aes-encryption) – AES encryption/decryption
 - [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
 - [infinity-bot](https://github.com/ak811/infinity-bot) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
