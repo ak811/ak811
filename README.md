@@ -13,7 +13,7 @@ Selected Repositories
 - [Sparxiv](https://github.com/thejasprab/Sparxiv) – Spark recommender over 3M+ arXiv papers: Parquet ETL, MLlib TF-IDF, CSR top-k search
 - [CTRL](https://github.com/ak811/ctrl) – Cross-task RL with PPO transfer, Reptile meta-learning, and EWC continual learning
 
-Machine Learning and Efficient Transformer Models
+Machine Learning & Efficient Transformer Models
 
 - [two-percent-attention](https://github.com/ak811/two-percent-attention) – Sparse attention for ViTs at 2% of dense attention FLOPs, benchmarked across 10 mechanisms
 - [vgg-magnitude-pruning](https://github.com/ak811/vgg-magnitude-pruning) – PyTorch implementation of Han et al. magnitude pruning on VGG
@@ -38,7 +38,7 @@ Computer Vision & Deep Learning
 
 Deep Reinforcement Learning & Game Theory
 
-- [sb3-ppo-clip-carracing-v3](https://github.com/ak811/sb3-ppo-clip-carracing-v3) – SB3 PPO-Clip + GAE(λ) on CarRacing-v3 with CNN over 4 stacked 84x84 frames
+- [sb3-ppo-clip-carracing-v3](https://github.com/ak811/sb3-ppo-clip-carracing-v3) – SB3 PPO-Clip + GAE(λ) on CarRacing-v3 with CNN over 4 stacked 84×84 frames
 - [dqn-ddqn-pong-v5](https://github.com/ak811/dqn-ddqn-pong-v5) – DQN + Double DQN on ALE/Pong-v5 with replay, Huber loss, and difficulty 2–3 training
 - [tabular-qlearning-frozenlake-v1](https://github.com/ak811/tabular-qlearning-frozenlake-v1) – Tabular Q-learning on FrozenLake-v1: Bellman TD updates with ε-greedy 1.0→0.01 decay
 - [ppo-clip-lunarlander-v3](https://github.com/ak811/ppo-clip-lunarlander-v3) – From-scratch PPO-Clip on LunarLander-v3: categorical actor-critic, normalized GAE(λ), clip-ε decay
@@ -55,7 +55,7 @@ Distributed & Cloud Computing
 
 Parallel Computing
 
-- [cuda-openmp-nbody](https://github.com/ak811/cuda-openmp-nbody) – O(N²) 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
+- [cuda-openmp-nbody](https://github.com/ak811/cuda-openmp-nbody) – $O(N²)$ 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
 - [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
 - [openmp-bottom-up-mergesort](https://github.com/ak811/openmp-bottom-up-mergesort) – OpenMP bottom-up merge sort with merge-path partitioning, scaled to 10⁹ elements
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
