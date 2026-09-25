@@ -70,7 +70,7 @@ Algorithms & Competitive Programming
 
 Software Development
 
-- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android
+- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus Parking Management System for UNC Charlotte: QR spot check-in, React.js, Fastify, MongoDB
 - [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
 - [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
