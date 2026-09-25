@@ -6,15 +6,14 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - 4th Place – Sharif Obfuscated C Code Contest (Dec 2019)
 - 10th Place – JavaCup Programming Contest (Oct 2019)
 
-### Selected Repositories
+Selected Repositories
 
 - [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention) – Wythoff/Fibonacci sparse attention cutting ViT self-attention from $O(N^2)$ to $O(N \log N)$
 - [TruthLens](https://github.com/ak811/truthlens) – Training-free deepfake detection via VQA-style probing of vision-language models; ICML 2025
 - [Sparxiv](https://github.com/thejasprab/Sparxiv) – Spark recommender over 3M+ arXiv papers: Parquet ETL, MLlib TF-IDF, CSR top-k search
 - [CTRL](https://github.com/ak811/ctrl) – Cross-task RL with PPO transfer, Reptile meta-learning, and EWC continual learning
 
-<details>
-<summary><b>Machine Learning &amp; Efficient Transformer Models</b></summary>
+Machine Learning & Efficient Transformer Models
 
 - [two-percent-attention](https://github.com/ak811/two-percent-attention) – Sparse attention for ViTs at 2% of dense attention FLOPs, benchmarked across 10 mechanisms
 - [vgg-magnitude-pruning](https://github.com/ak811/vgg-magnitude-pruning) – PyTorch implementation of Han et al. magnitude pruning on VGG
@@ -27,10 +26,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [nonlinear-decision-boundaries](https://github.com/ak811/nonlinear-decision-boundaries) – Nonlinear decision boundaries with a two-layer neural network
 - [cross-in-tray-optimization](https://github.com/ak811/cross-in-tray-optimization) – Genetic algorithm and simulated annealing for the Cross-in-Tray global optimization benchmark
 
-</details>
-
-<details>
-<summary><b>Computer Vision &amp; Deep Learning</b></summary>
+Computer Vision & Deep Learning
 
 - [moco-joint-ssl-training](https://github.com/ak811/moco-joint-ssl-training) – MoCo contrastive learning trained jointly with a supervised head from scratch
 - [oneshot-openclip-tta](https://github.com/ak811/oneshot-openclip-tta) – One-shot OpenCLIP classification with confidence-gated test-time prototype adaptation
@@ -40,10 +36,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Lucas-Kanade & Farneback optical flow, MeanShift/CAMShift, and OpenCV KCF/MIL trackers
 - [opencv-keypoint-detection](https://github.com/ak811/opencv-keypoint-detection) – Real-time Haar-cascade face/eye detection with median-adaptive Canny edge extraction
 
-</details>
-
-<details>
-<summary><b>Deep Reinforcement Learning &amp; Game Theory</b></summary>
+Deep Reinforcement Learning & Game Theory
 
 - [sb3-ppo-clip-carracing-v3](https://github.com/ak811/sb3-ppo-clip-carracing-v3) – SB3 PPO-Clip + GAE(λ) on CarRacing-v3 with CNN over 4 stacked 84×84 frames
 - [dqn-ddqn-pong-v5](https://github.com/ak811/dqn-ddqn-pong-v5) – DQN + Double DQN on ALE/Pong-v5 with replay, Huber loss, and difficulty 2–3 training
@@ -52,10 +45,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [dqn-replay-noise-ablation](https://github.com/ak811/dqn-replay-noise-ablation) – DQN ablation of prioritized vs uniform vs online replay, parameter noise vs ε-greedy
 - [pacman-search-agent](https://github.com/ak811/pacman-search-agent) – BFS/DFS/UCS/A* search agent with admissible Manhattan/Euclidean heuristics and a Pygame visualizer
 
-</details>
-
-<details>
-<summary><b>Distributed &amp; Cloud Computing</b></summary>
+Distributed & Cloud Computing
 
 - [aws-event-driven-etl](https://github.com/ak811/aws-event-driven-etl) – Event-driven S3 → Lambda → Glue → Athena (Trino) ETL with a boto3/Flask dashboard on EC2
 - [aws-ecommerce-analytics](https://github.com/ak811/aws-ecommerce-analytics) – AWS S3 → Glue crawler → Athena window-function analytics on ~129k Kaggle e-commerce sales
@@ -63,10 +53,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [pyspark-listening-behavior-analytics](https://github.com/ak811/pyspark-listening-behavior-analytics) – PySpark user listening behavior analytics: deterministic row_number ranking, genre loyalty
 - [hadoop-jaccard-similarity](https://github.com/ak811/hadoop-jaccard-similarity) – Hadoop MapReduce pairwise Jaccard similarity via inverted index, benchmarked on 1 vs 3 DataNodes
 
-</details>
-
-<details>
-<summary><b>Parallel Computing</b></summary>
+Parallel Computing
 
 - [cuda-openmp-nbody](https://github.com/ak811/cuda-openmp-nbody) – $O(N^2)$ 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
 - [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
@@ -74,10 +61,7 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
 - [bitcoin-merkle-engine](https://github.com/ak811/bitcoin-merkle-engine) – Parallel Bitcoin Merkle engine: SHA-256d trees, SPV proofs, PoW and SegWit commitment checks
 
-</details>
-
-<details>
-<summary><b>Software Development</b></summary>
+Software Development
 
 - [Ase](https://github.com/ak811/Ase) – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming, Jaccard spell correction
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
@@ -86,5 +70,3 @@ Hi. My name is Ali Rahimian, and these are some highlights from my CV:
 - [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
 - [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
 - [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(\log N)$ binary search scoring 5.7M transactions
-
-</details>
