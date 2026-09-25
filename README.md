@@ -75,5 +75,5 @@ Software Development
 - [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
 - [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
 - [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
-- [tfidf-ngram-search-engine](https://github.com/ak811/tfidf-ngram-search-engine) – Local search engine with TF-IDF and n-grams
+- [multi-lang-search-engine](https://github.com/ak811/multi-lang-search-engine) – Multi-language search engine: TF-IDF inverted index, bigram spell correction, Android app + CLI
 - [infinity-bot](https://github.com/ak811/infinity-bot) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
