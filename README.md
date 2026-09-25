@@ -66,7 +66,7 @@ Software Development
 - [Ase](https://github.com/ak811/Ase) – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming, Jaccard spell correction
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
 - [EZpark](https://github.com/Park-EZ/ezpark) – Campus Parking Management System for UNC Charlotte: QR spot check-in, React.js, Fastify, MongoDB
-- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
-- [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
-- [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
 - [infinity-bot](https://github.com/ak811/infinity-bot) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
+- [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
+- [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
+- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
