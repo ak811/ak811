@@ -34,7 +34,7 @@ Computer Vision & Deep Learning
 - [watershed-image-segmentation](https://github.com/ak811/watershed-image-segmentation) – Segmentation with Watershed algorithm: median blur, contour detection, and custom seeds
 - [hand-segmentation-convex-hull](https://github.com/ak811/hand-segmentation-convex-hull) – Hand segmentation & finger counting with Gaussian blur, contour detection, and convex hull
 - [opencv-tracking-algorithms](https://github.com/ak811/opencv-tracking-algorithms) – Lucas-Kanade & Farneback optical flow, MeanShift/CAMShift, and OpenCV KCF/MIL trackers
-- [opencv-keypoint-detection](https://github.com/ak811/realtime-facial-keypoint-detection) – Real-time Haar-cascade face/eye detection with median-adaptive Canny edge extraction
+- [opencv-keypoint-detection](https://github.com/ak811/opencv-keypoint-detection) – Real-time Haar-cascade face/eye detection with median-adaptive Canny edge extraction
 
 Deep Reinforcement Learning & Game Theory
 
