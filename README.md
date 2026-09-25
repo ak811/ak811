@@ -61,13 +61,6 @@ Parallel Computing
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
 - [bitcoin-merkle-engine](https://github.com/ak811/bitcoin-merkle-engine) – Parallel Bitcoin Merkle engine: SHA-256d trees, SPV proofs, PoW and SegWit commitment checks
 
-Algorithms & Competitive Programming
-
-- [competitive-programming](https://github.com/ak811/competitive-programming) – ACM-ICPC problems & algorithm design
-- Profiles
-  - Codeforces: [https://codeforces.com/profile/Ali811](https://codeforces.com/profile/Ali811)
-  - Timus Online Judge: [https://acm.timus.ru/author.aspx?id=238630](https://acm.timus.ru/author.aspx?id=238630)
-
 Software Development
 
 - [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
