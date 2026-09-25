@@ -55,7 +55,7 @@ Distributed & Cloud Computing
 
 Parallel Computing
 
-- [cuda-openmp-nbody](https://github.com/ak811/cuda-openmp-nbody) – $O(N²)$ 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
+- [cuda-openmp-nbody](https://github.com/ak811/cuda-openmp-nbody) – $O(N^2)$ 2D N-body gravity in sequential C++, OpenMP, and CUDA, scaling to 100k bodies
 - [cuda-h2d-d2h-bandwidth](https://github.com/ak811/cuda-h2d-d2h-bandwidth) – CUDA H2D/D2H bandwidth benchmark: pageable malloc vs. pinned cudaHostAlloc, 1 MB–1 GB sweep
 - [openmp-bottom-up-mergesort](https://github.com/ak811/openmp-bottom-up-mergesort) – OpenMP bottom-up merge sort with merge-path partitioning, scaled to 10⁹ elements
 - [openmp-three-pass-scan](https://github.com/ak811/openmp-three-pass-scan) – Three-pass block-decomposed exclusive scan in OpenMP; 12.6× speedup on 10⁹ elements, 64 threads
@@ -69,4 +69,4 @@ Software Development
 - [infinity-bot](https://github.com/ak811/infinity-bot) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
 - [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
 - [asyncio-file-transfer](https://github.com/ak811/asyncio-file-transfer) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
-- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(logN)$ binary search scoring 5.7M transactions
+- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(\log N)$ binary search scoring 5.7M transactions
