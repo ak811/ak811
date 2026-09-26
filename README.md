@@ -1,10 +1,16 @@
-Hi. My name is Ali Rahimian, and these are some highlights from my CV:
+Hi, I'm Ali Rahimian, a machine learning engineer working on efficient Transformers and computer vision.
 
-- Honorable Mention – 17th ACM ICPC Asia Tehran Regional Contest (Nov 2019)
-- 2nd Place – JCAL Programming Contest (May 2018)
-- 3rd Place – Sharif ICT Fintech Hackathon (Aug 2019)
-- 4th Place – Sharif Obfuscated C Code Contest (Dec 2019)
-- 10th Place – JavaCup Programming Contest (Oct 2019)
+- Co-author of [TruthLens](https://github.com/ak811/truthlens) (ICML 2025), a training-free deepfake detection framework using VLMs
+- Lead developer of [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention), $O(N \log N)$ sparse attention for ViTs using 2–6% of interactions
+- More than 8 years of experience (as ML researcher, software engineer, freelancer, and co-founder)
+- Lots of teaching and mentoring experience (as a teaching assistant, ESL instructor, and mentor)
+- Former ML Engineer/Researcher at Charlotte Machine Learning Lab (under Dr. Christian Kümmerle)
+- M.S. in Computer Science at UNC Charlotte (GPA 3.9, thesis on multi-head sparse attention)
+- B.S. in Computer Software Engineering at Yazd University (ranked 1st for three consecutive years)
+- Multiple contest awards (ICPC Tehran Regional HM, 2nd JCAL, 3rd Sharif Fintech, 4th Obfuscated C)
+- Open to ML Engineer, Research Engineer, and Applied Scientist roles (US, on-site/hybrid/remote)
+
+You can contact me through email: [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu)
 
 Selected Repositories
 
