@@ -1,4 +1,4 @@
-Hi, I'm Ali Rahimian, a machine learning engineer working on efficient Transformers and computer vision.
+Hi, I'm Ali Rahimian and these are some highlights from my CV:
 
 - Co-author of [TruthLens](https://icml.cc/virtual/2025/51033) (ICML 2025), a training-free deepfake detection framework built on VLMs
 - Lead developer of [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention), $O(N \log N)$ sparse attention for ViTs using only 2–6% of interactions
