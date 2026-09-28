@@ -10,7 +10,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 - Multiple contest awards (ICPC Tehran Regional HM, 2nd JCAL, 3rd Sharif Fintech, 4th Obfuscated C)
 - Open to ML Engineer, Software Engineer, and Data Scientist roles (US, on-site/hybrid/remote)
 
-Feel free to reach out through email: [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu)
+The best way to reach me is through email: [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu)
 
 Selected Repositories
 
