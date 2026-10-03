@@ -75,4 +75,4 @@ Software Development
 - [Discore](https://github.com/ak811/Discore) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
 - [fips197-aes-gcm](https://github.com/ak811/fips197-aes-gcm) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
 - [Aport](https://github.com/ak811/Aport) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
-- [java-jdbc-loyalty-engine](https://github.com/ak811/java-jdbc-loyalty-engine) – Java/JDBC loyalty engine on SQLite with merge sort and $O(\log N)$ binary search scoring 5.7M transactions
+- [Punchcard](https://github.com/ak811/Punchcard) – Java/JDBC loyalty engine on SQLite with merge sort and $O(\log N)$ binary search scoring 5.7M transactions
