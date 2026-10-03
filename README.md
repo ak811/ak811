@@ -70,9 +70,9 @@ Parallel Computing
 Software Development
 
 - [Ase](https://github.com/ak811/Ase) – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming, Jaccard spell correction
-- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
-- [EZpark](https://github.com/Park-EZ/ezpark) – Campus Parking Management System for UNC Charlotte: QR spot check-in, React.js, Fastify, MongoDB
 - [Discore](https://github.com/ak811/Discore) – Large-scale Discord community bot with ~300 Python modules across 72 independently loadable extensions
 - [Rijn](https://github.com/ak811/Rijn) – FIPS-197 AES + SP 800-38D GCM from scratch in Java; streaming AES-256-GCM file CLI with PBKDF2/HKDF
 - [Aport](https://github.com/ak811/Aport) – Concurrent asyncio file transfer over TCP: resumable downloads, SHA-256 checks, atomic uploads
+- [EZpark](https://github.com/Park-EZ/ezpark) – Campus Parking Management System for UNC Charlotte: QR spot check-in, React.js, Fastify, MongoDB
 - [Punchcard](https://github.com/ak811/Punchcard) – Java/JDBC loyalty engine on SQLite with merge sort and $O(\log N)$ binary search scoring 5.7M transactions
+- [Jaga](https://github.com/ak811/jaga) – A Java game development framework for Android: 10-pointer multi-touch, object pooling, Canvas HAL
