@@ -10,7 +10,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 - Multiple contest awards (ICPC Tehran Regional HM, 2nd JCAL, 3rd Sharif Fintech, 4th Obfuscated C)
 - Open to ML Engineer, Senior Software Engineer, and Data Scientist roles (US, on-site/hybrid/remote)
 
-[Email](mailto:akhalegh@charlotte.edu) · [LinkedIn](https://www.linkedin.com/in/alikrahimian) · [Google Scholar](https://scholar.google.com/citations?user=MIelP8kAAAAJ&hl=en)
+**Email:** [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu) · **LinkedIn:** [alikrahimian](https://www.linkedin.com/in/alikrahimian) · **Scholar:** [Ali Rahimian](https://scholar.google.com/citations?user=MIelP8kAAAAJ&hl=en)
 
 ### Selected open source
 
@@ -25,7 +25,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 - **[Ase](https://github.com/ak811/Ase)** – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming, Jaccard spell correction
 
 <details>
-<summary><h3>More projects by topic</h3></summary>
+<summary><h4>More projects by topic</h4></summary>
 
 ### Deep Learning & ML Research
 
