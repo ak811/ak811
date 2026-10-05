@@ -12,7 +12,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 
 **Email:** [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu) · **LinkedIn:** [alikrahimian](https://www.linkedin.com/in/alikrahimian) · **Scholar:** [Ali Rahimian](https://scholar.google.com/citations?user=MIelP8kAAAAJ&hl=en)
 
-#### Selected open source
+### Selected open source
 
 - **[Fibottention](https://github.com/Charlotte-CharMLab/Fibottention)** – ViT sparse attention, $O(N^2) \to O(N \log N)$, for images, video, and robotics
 
@@ -25,7 +25,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 - **[Ase](https://github.com/ak811/Ase)** – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming
 
 <details>
-<summary><h4>More projects by topic</h4></summary>
+<summary><h3>More projects by topic</h3></summary>
 
 ### Deep Learning & ML Research
 
