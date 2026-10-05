@@ -22,7 +22,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 
 - **[CTRL](https://github.com/ak811/CTRL)** – Cross-task RL with PPO transfer, Reptile meta-learning, and EWC continual learning
 
-- **[Ase](https://github.com/ak811/Ase)** – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming, Jaccard spell correction
+- **[Ase](https://github.com/ak811/Ase)** – Multilingual BM25 search engine in Java: SPIMI, positional phrase queries, Porter stemming
 
 <details>
 <summary><h4>More projects by topic</h4></summary>
