@@ -12,7 +12,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 
 **Email:** [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu) · **LinkedIn:** [alikrahimian](https://www.linkedin.com/in/alikrahimian) · **Scholar:** [Ali Rahimian](https://scholar.google.com/citations?user=MIelP8kAAAAJ&hl=en)
 
-### Selected open source
+#### Selected open source
 
 - **[Fibottention](https://github.com/Charlotte-CharMLab/Fibottention)** – ViT sparse attention, $O(N^2) \to O(N \log N)$, for images, video, and robotics
 
