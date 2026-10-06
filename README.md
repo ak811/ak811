@@ -8,7 +8,7 @@ Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 - M.S. in Computer Science at UNC Charlotte (thesis on diverse multi-head sparse attention)
 - B.S. in Computer Software Engineering at Yazd University (ranked 1st for three consecutive years)
 - Multiple contest awards (ICPC Tehran Regional HM, 2nd JCAL, 3rd Sharif Fintech, 4th Obfuscated C)
-- Open to ML Engineer, Senior Software Engineer, and Data Scientist roles (US, on-site/hybrid/remote)
+- Open to ML Engineer, Software Engineer, and Data Scientist roles (US, on-site/hybrid/remote)
 
 **Email:** [akhalegh@charlotte.edu](mailto:akhalegh@charlotte.edu) · **LinkedIn:** [alikrahimian](https://www.linkedin.com/in/alikrahimian) · **Scholar:** [Ali Rahimian](https://scholar.google.com/citations?user=MIelP8kAAAAJ&hl=en) · **YouTube:** [Ali Rahimian](https://www.youtube.com/watch?v=uyY6moVA-RA)
 
