@@ -1,7 +1,7 @@
 Hi, I'm Ali Rahimian, and these are some highlights from my CV:
 
 - Lead developer of [Fibottention](https://github.com/Charlotte-CharMLab/Fibottention), $O(N \log N)$ sparse attention for images, video, and robotics
-- Co-author of [TruthLens](https://icml.cc/virtual/2025/51033) (ICML 2025, DIG-BUGS), a training-free deepfake detection framework built on VLMs
+- Co-author of [TruthLens](https://icml.cc/virtual/2025/51033) (ICML 2025), a training-free deepfake detection framework built on VLMs
 - More than 8 years of experience (as ML researcher, software engineer, data engineer, and founder)
 - Founded IRSoft; built Android apps with 3.5M+ installs and a 4.7★ average across 120K+ reviews
 - Lots of teaching and mentoring experience (as a teaching assistant, ESL instructor, and mentor)
